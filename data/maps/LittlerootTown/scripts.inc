@@ -909,6 +909,16 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	delay 30
 	return
 
+LittlerootTown_EventScript_Pikachu::
+	lock
+	faceplayer
+	msgbox LittlerootTown_Text_Welcome, MSGBOX_DEFAULT
+	playmoncry SPECIES_PIKACHU, CRY_MODE_NORMAL
+	msgbox LittlerootTown_Text_IMeanPikachu, MSGBOX_DEFAULT
+	waitmoncry
+	release
+	end
+
 LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "MOM: {PLAYER}, we're here, honey!\p"
 	.string "It must be tiring riding with our things\n"
@@ -1019,3 +1029,9 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
 
+LittlerootTown_Text_Welcome:
+	.string "Welcome to the demo of POKéMON POOL\n"
+	.string "NOODLE VERSION.$"
+
+LittlerootTown_Text_IMeanPikachu:
+	.string "…Uh, I mean pikaaa!$"
