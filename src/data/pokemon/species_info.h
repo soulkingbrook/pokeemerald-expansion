@@ -166,6 +166,61 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .iconPalIndex = 1,
     },
 
+    [SPECIES_CAVIAMP] =
+    {
+        .baseHP        = 80,
+        .baseAttack    = 90,
+        .baseDefense   = 70,
+        .baseSpeed     = 80,
+        .baseSpAttack  = 40,
+        .baseSpDefense = 60,
+        .types = MON_TYPES(TYPE_ELECTRIC, TYPE_NORMAL),
+        .catchRate = 200,
+        .expYield = 150,
+        .evYield_Speed = 1,
+        .itemCommon = ITEM_CHERI_BERRY,
+        .itemRare = ITEM_BLACK_GLASSES,
+        .genderRatio = PERCENT_FEMALE(50),
+        .eggCycles = 20,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_MEDIUM_FAST,
+        .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
+        .abilities = { ABILITY_STATIC, ABILITY_SOUNDPROOF, ABILITY_SCRAPPY },
+        .bodyColor = BODY_COLOR_YELLOW,
+        .speciesName = _("Caviamp"),
+        .cryId = CRY_CAVIAMP,
+        .natDexNum = NATIONAL_DEX_CAVIAMP,
+        .categoryName = _("Guinea Pig"),
+        .height = 6,
+        .weight = 200,
+        .description = COMPOUND_STRING(
+            "Caviamp often sing in groups, and are\n"
+            "even capable of playing instruments.\n"
+            "Its cries are loud enough to shatter\n"
+            "the eardrums of an Indian elephant."),
+        .pokemonScale = 365,
+        .pokemonOffset = 18,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+        .frontPic = gMonFrontPic_Caviamp,
+        .frontPicSize = MON_COORDS_SIZE(64, 64),
+        .frontPicYOffset = 0,
+        .frontAnimFrames = sAnims_Caviamp,
+        .frontAnimId = ANIM_SHAKE_FLASH_YELLOW,
+        .backPic = gMonBackPic_Caviamp,
+        .backPicSize = MON_COORDS_SIZE(64, 64),
+        .backPicYOffset = 2,
+        .backAnimId = BACK_ANIM_SHAKE_FLASH_YELLOW,
+        .palette = gMonPalette_Caviamp,
+        .shinyPalette = gMonShinyPalette_Caviamp,
+        .iconSprite = gMonIcon_Caviamp,
+        .iconPalIndex = 2,
+        FOOTPRINT(Caviamp)
+        .levelUpLearnset = sCaviampLevelUpLearnset,
+        .teachableLearnset = sCaviampTeachableLearnset,
+        .eggMoveLearnset = sCaviampEggMoveLearnset,
+    },
+
     /* You may add any custom species below this point based on the following structure: */
 
     /*
