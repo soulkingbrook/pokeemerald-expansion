@@ -163,7 +163,7 @@ $(MID_SUBDIR)/mus_slateport.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G079 -V070
 
 $(MID_SUBDIR)/mus_poke_mart.s: %.s: %.mid
-	$(MID) $< $@ -E -R$(STD_REVERB) -G050 -V085
+	$(MID) $< $@ -E -R$(STD_REVERB) -G192 -V085
 
 $(MID_SUBDIR)/mus_oceanic_museum.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G023 -V080
@@ -632,6 +632,12 @@ $(MID_SUBDIR)/mus_vs_rayquaza.s: %.s: %.mid
 
 $(MID_SUBDIR)/mus_encounter_hiker.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G097 -V076
+
+$(MID_SUBDIR)/mus_family_guy_intro.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G050 -V100
+
+$(MID_SUBDIR)/mus_angry_beavers.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V080
 
 $(MID_SUBDIR)/ph_choice_blend.s: %.s: %.mid
 	$(MID) $< $@ -E -G130 -P4

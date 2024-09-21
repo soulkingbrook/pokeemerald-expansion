@@ -1263,6 +1263,8 @@ SECTIONS {
         sound/songs/midi/ph_nurse_blend.o(.rodata);
         sound/songs/midi/ph_nurse_held.o(.rodata);
         sound/songs/midi/ph_nurse_solo.o(.rodata);
+        sound/songs/midi/mus_family_guy_intro.o(.rodata);
+        sound/songs/midi/mus_angry_beavers.o(.rodata);
     } > ROM =0
 
     lib_rodata :
