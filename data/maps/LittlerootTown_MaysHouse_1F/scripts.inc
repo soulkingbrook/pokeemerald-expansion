@@ -325,7 +325,7 @@ RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
 	.string "… … … … … … … … …\n"
 	.string "… … … … … … … … …\p"
 	.string "Oh, you're {PLAYER}{KUN}, our new next-door\n"
-	.string "neighbor! Hi!\p"
+	.string "neighbour! Hi!\p"
 	.string "We have a {STR_VAR_1} about the same\n"
 	.string "age as you.\p"
 	.string "Our {STR_VAR_1} was excited about making\n"
@@ -340,10 +340,11 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 	.string "scrabbling about in grassy places.$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
-	.string "That {RIVAL}!\p"
-	.string "I guess our child is too busy with\n"
-	.string "POKéMON to notice that you came\l"
-	.string "to visit, {PLAYER}{KUN}.$"
+	.string "Sorry about {RIVAL}.\p"
+	.string "{RIVAL} always had trouble getting\n"
+	.string "along with others.\p"
+	.string "I suppose our child is too busy with\n"
+	.string "POKéMON to put in the effort.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
 	.string "Oh, {RIVAL} went out to ROUTE 103\n"
@@ -385,25 +386,31 @@ RivalsHouse_1F_Text_MayWhoAreYou:
 
 RivalsHouse_1F_Text_BrendanWhoAreYou:
 	.string "Hey!\n"
-	.string "You…\p"
-	.string "Who are you?\p"
-	.string "Oh, you're {PLAYER}, aren't you?\n"
-	.string "Moved in next door, right?\p"
-	.string "I didn't know that you're a girl.\p"
+	.string "Who the fuck let you in my house?$"
+
+RivalsHouse_1F_Text_MumsPissy:
+	.string "BRENDAN! How dare you speak to\n"
+	.string "{PLAYER} that way!\l"
+	.string "Apologise now!\p"
+	.string "BRENDAN: B-but Mum!$"
+
+RivalsHouse_1F_Text_SorryIGuess:
+	.string "(Ugh, fucking bitch…)\p"
+	.string "Uh… sorry if my brashness offended you,\n"
+	.string "but that's just how I roll.\p"
+	.string "I didn't realise you were {PLAYER}.\p"
 	.string "Dad, PROF. BIRCH, said that our new\n"
-	.string "next-door neighbor is a GYM LEADER's\l"
+	.string "next-door neighbour is a GYM LEADER's\l"
 	.string "kid, so I assumed you'd be a guy.\p"
-	.string "My name's BRENDAN.\n"
-	.string "So, hi, neighbor!\p"
-	.string "Huh? Hey, {PLAYER}, don't you have\n"
-	.string "a POKéMON?\p"
-	.string "Do you want me to go catch you one?\p"
-	.string "Aw, darn, I forgot…\p"
-	.string "I'm supposed to go help my dad catch\n"
-	.string "some wild POKéMON.\p"
-	.string "Some other time, okay?$"
+	.string "What? It's not sexist to want boy\n"
+	.string "friends!\p"
+	.string "Anyway, I'm BRENDAN.\p"
+	.string "If you expect me to catch your first\n"
+	.string "POKéMON for you, forget it.\p"
+	.string "I'm too busy helping Dad catch\n"
+	.string "POKéMON instead.$"
 
 RivalsHouse_1F_Text_DoYouHavePokemon:
-	.string "Hi, neighbor!\p"
+	.string "Hi, neighbour!\p"
 	.string "Do you already have your\n"
 	.string "own POKéMON?$"

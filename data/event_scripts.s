@@ -865,19 +865,29 @@ gText_SelectWithoutRegisteredItem::
 	.string "registered to SELECT for easy use.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
-	.string "SCHOOL.\p"
+	.string "It's the vent channel of {RIVAL}'s\n"
+	.string "DISCORD server.\p"
 	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
-	.string "… … … … … …$"
+	.string "MAY: I'm tired of short-form content.\p"
+	.string "In the past, my STEVEN/WALLACE fanfics\n"
+	.string "consistently received hundreds of\l"
+	.string "kudos, comments and bookmarks.\p"
+	.string "This week's fic only received a meagre\n"
+	.string "fifteen.\l"
+	.string "What's the deal?!\p"
+	.string "BB: Sounds like you need a real hobby.\n"
+	.string "MAY: Writing IS a real hobby!\p"
+	.string "BB: >implying writing out of character\n"
+	.string "slash of POKéMON LEAGUE members is\l"
+	.string "real writing\l"
+	.string "BB: Lol\p"
+	.string "KAT: My mum has cancer, guys.$"
 
 gText_PlayerHouseBootPC::
 	.string "{PLAYER} booted up the PC.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+	.string "The link was cancelled.$"
 
 gText_UnusedNicknameReceivedPokemon::
 	.string "Want to give a nickname to\n"

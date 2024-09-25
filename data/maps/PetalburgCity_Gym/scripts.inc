@@ -1210,7 +1210,7 @@ PetalburgCity_Gym_Text_WallyThankYouBye:
 	.string "my POKéMON.\p"
 	.string "I promise I'll take really good\n"
 	.string "care of it.\p"
-	.string "Oh! My mom's waiting for me,\n"
+	.string "Oh! My mum's waiting for me,\n"
 	.string "so I have to go!\p"
 	.string "Bye, {PLAYER}!$"
 
@@ -1283,7 +1283,7 @@ PetalburgCity_Gym_Text_ReceivedBalanceBadge:
 	.string "from DAD!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
-	.string "DAD: With that BADGE, the DEFENSE\n"
+	.string "DAD: With that BADGE, the DEFENCE\n"
 	.string "of all your POKéMON will increase.\p"
 	.string "POKéMON that know the HM move SURF\n"
 	.string "will be able to travel over water.\p"
@@ -1365,7 +1365,7 @@ PetalburgCity_Gym_Text_RandallPostBattle:
 	.string "Go on to the next room where a new\n"
 	.string "challenge awaits you.\p"
 	.string "At the left is the CONFUSION ROOM.\p"
-	.string "The right door leads to the DEFENSE\n"
+	.string "The right door leads to the DEFENCE\n"
 	.string "ROOM.$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
@@ -1452,7 +1452,7 @@ PetalburgCity_Gym_Text_MaryDefeat:
 PetalburgCity_Gym_Text_MaryPostBattle:
 	.string "There are some even stronger\n"
 	.string "TRAINERS waiting for you.\p"
-	.string "The left is the DEFENSE ROOM, and\n"
+	.string "The left is the DEFENCE ROOM, and\n"
 	.string "the right is the RECOVERY ROOM.\p"
 	.string "Your POKéMON's ATTACK power will be\n"
 	.string "on trial either way.$"
@@ -1464,11 +1464,11 @@ PetalburgCity_Gym_Text_MaryPostBadge:
 	.string "with our POKéMON.$"
 
 PetalburgCity_Gym_Text_AlexiaIntro:
-	.string "The higher the DEFENSE, the more\n"
+	.string "The higher the DEFENCE, the more\n"
 	.string "reckless I can be in attack.$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat:
-	.string "Our defenses weren't enough…$"
+	.string "Our defences weren't enough…$"
 
 PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "I think you've taught me a valuable\n"
@@ -1478,7 +1478,7 @@ PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "The right door opens to\n"
 	.string "the ONE-HIT KO ROOM.\p"
 	.string "Both of them have TRAINERS who are\n"
-	.string "skilled at offense.$"
+	.string "skilled at offence.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
 	.string "Hi! Have you tried using SURF?$"
@@ -1527,7 +1527,7 @@ PetalburgCity_Gym_Text_EnterConfusionRoom:
 	.string "Do you want to go through?$"
 
 PetalburgCity_Gym_Text_EnterDefenseRoom:
-	.string "“DEFENSE ROOM,” the sign says.\p"
+	.string "“DEFENCE ROOM,” the sign says.\p"
 	.string "Do you want to go through?$"
 
 PetalburgCity_Gym_Text_EnterRecoveryRoom:

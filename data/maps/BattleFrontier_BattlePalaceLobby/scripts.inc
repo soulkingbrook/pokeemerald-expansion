@@ -506,7 +506,7 @@ BattleFrontier_BattlePalaceLobby_Text_ReceivedPrize:
 BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink:
 	.string "For a hardy fellow like me,\n"
 	.string "hardy POKéMON are the best.\p"
-	.string "Offense is the best defense!\n"
+	.string "Offence is the best defence!\n"
 	.string "A relentless attack is the ultimate!\p"
 	.string "But that's not what I wanted to chat\n"
 	.string "about.\p"

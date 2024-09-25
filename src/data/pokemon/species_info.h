@@ -187,14 +187,14 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_STATIC, ABILITY_SOUNDPROOF, ABILITY_SCRAPPY },
         .bodyColor = BODY_COLOR_YELLOW,
-        .speciesName = _("Caviamp"),
+        .speciesName = _("CAVIAMP"),
         .cryId = CRY_CAVIAMP,
         .natDexNum = NATIONAL_DEX_CAVIAMP,
-        .categoryName = _("Guinea Pig"),
+        .categoryName = _("GUINEA PIG"),
         .height = 6,
         .weight = 200,
         .description = COMPOUND_STRING(
-            "Caviamp often sing in groups, and are\n"
+            "CAVIAMP often sing in groups, and are\n"
             "even capable of playing instruments.\n"
             "Its cries are loud enough to shatter\n"
             "the eardrums of an Indian elephant."),

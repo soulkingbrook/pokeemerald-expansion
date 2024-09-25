@@ -188,7 +188,7 @@ const u8 gText_MatchCallTriathlete_Maria_Pokemon[] = _("I use a speedy POKéMON.
 const u8 gText_MatchCallTriathlete_Maria_Intro1[] = _("A marathon is a challenge");
 const u8 gText_MatchCallTriathlete_Maria_Intro2[] = _("against your own self.");
 
-const u8 gText_MatchCallTriathlete_Abigail_Strategy[] = _("Defense is crucial.");
+const u8 gText_MatchCallTriathlete_Abigail_Strategy[] = _("Defence is crucial.");
 const u8 gText_MatchCallTriathlete_Abigail_Pokemon[] = _("My POKéMON is solid.");
 const u8 gText_MatchCallTriathlete_Abigail_Intro1[] = _("I started this for dieting,");
 const u8 gText_MatchCallTriathlete_Abigail_Intro2[] = _("but I got right into it.");
@@ -363,7 +363,7 @@ const u8 gText_MatchCallDandyCharm_Juan_Pokemon[] = _("POKéMON of elegance!");
 const u8 gText_MatchCallDandyCharm_Juan_Intro1[] = _("The adulation of beautiful");
 const u8 gText_MatchCallDandyCharm_Juan_Intro2[] = _("ladies fills me with energy!");
 
-const u8 gText_MatchCallEliteFour_Sidney_Strategy[] = _("Offense over defense!");
+const u8 gText_MatchCallEliteFour_Sidney_Strategy[] = _("Offence over defence!");
 const u8 gText_MatchCallEliteFour_Sidney_Pokemon[] = _("The DARK side's beauties.");
 const u8 gText_MatchCallEliteFour_Sidney_Intro1[] = _("They said I was a punk, but");
 const u8 gText_MatchCallEliteFour_Sidney_Intro2[] = _("I'm one of the ELITE FOUR!");
