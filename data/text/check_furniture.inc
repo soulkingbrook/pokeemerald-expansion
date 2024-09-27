@@ -22,6 +22,9 @@ Text_ShopShelf:
 	.string "The shelves brim with all sorts of\n"
 	.string "POKéMON merchandise.$"
 
+Text_ShopFridge:
+	.string "They have it! CANNED BREAD!$"
+
 Text_Blueprint:
 	.string "A blueprint of some sort?\n"
 	.string "It's too complicated!$"

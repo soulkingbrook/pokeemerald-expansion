@@ -559,6 +559,7 @@ extern const u8 EventScript_PokemonCenterBookShelf[];
 extern const u8 EventScript_Vase[];
 extern const u8 EventScript_EmptyTrashCan[];
 extern const u8 EventScript_ShopShelf[];
+extern const u8 EventScript_ShopFridge[];
 extern const u8 EventScript_Blueprint[];
 extern const u8 EventScript_WirelessBoxResults[];
 extern const u8 EventScript_CableBoxResults[];

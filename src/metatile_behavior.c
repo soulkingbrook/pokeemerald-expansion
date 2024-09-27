@@ -1333,6 +1333,14 @@ bool8 MetatileBehavior_IsShopShelf(u8 metatileBehavior)
         return FALSE;
 }
 
+bool8 MetatileBehavior_IsShopFridge(u8 metatileBehavior)
+{
+    if (metatileBehavior == MB_SHOP_FRIDGE)
+        return TRUE;
+    else
+        return FALSE;
+}
+
 bool8 MetatileBehavior_IsBlueprint(u8 metatileBehavior)
 {
     if (metatileBehavior == MB_BLUEPRINT)

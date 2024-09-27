@@ -2173,14 +2173,14 @@ MatchCall_Text_Winona1::
 MatchCall_Text_Winona2::
 	.string "WINONA: You've done it, {PLAYER}!\p"
 	.string "News about the new CHAMPION\n"
-	.string "has reached us in FORTREE!\p"
+	.string "has reached the CHATOT VILLAGE!\p"
 	.string "But… The next time we battle,\n"
 	.string "it's not going to end the same way.$"
 
 MatchCall_Text_Winona3::
 	.string "WINONA: Is this {PLAYER}?\n"
 	.string "Our GYM is back in operation!\p"
-	.string "We're waiting for you in FORTREE!$"
+	.string "The CHILLAGE is waiting for you!$"
 
 MatchCall_Text_Winona4::
 	.string "WINONA: {PLAYER}…\n"

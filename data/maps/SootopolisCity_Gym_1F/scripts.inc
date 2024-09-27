@@ -272,7 +272,8 @@ SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
 	.string "obtain in HOENN.\p"
 	.string "If you wish to challenge the POKéMON\n"
 	.string "LEAGUE, you must obtain the last\l"
-	.string "BADGE from the GYM in FORTREE.$"
+	.string "BADGE from the GYM in the CHATOT\l"
+	.string "VILLAGE.$"
 
 SootopolisCity_Gym_1F_Text_GymStatue:
 	.string "SOOTOPOLIS CITY POKéMON GYM$"

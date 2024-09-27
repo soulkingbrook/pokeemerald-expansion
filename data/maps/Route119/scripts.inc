@@ -503,7 +503,7 @@ Route119_Text_MayExplainFly:
 	.string "instantly carry you to any town you've\l"
 	.string "already visited.\p"
 	.string "But, to use FLY, you have to get\n"
-	.string "the GYM BADGE from FORTREE CITY.\l"
+	.string "the GYM BADGE from the CHATOT VILLAGE.\l"
 	.string "That's important, so don't forget.\p"
 	.string "You should FLY home and visit\n"
 	.string "LITTLEROOT for a change.\p"
@@ -533,8 +533,8 @@ Route119_Text_BrendanExplainFly:
 	.string "BRENDAN: Use FLY, and your POKéMON\n"
 	.string "instantly carries you to any town\l"
 	.string "you've already visited.\p"
-	.string "But you need the FORTREE GYM BADGE \n"
-	.string "to do that.\p"
+	.string "But you need the CHATOT VILLAGE GYM\n"
+	.string "BADGE to do that.\p"
 	.string "Anyway, I have to move along.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
@@ -547,7 +547,7 @@ Route119_Text_ScottWayToGoBeSeeingYou:
 	.string "The kid looked really upset with\n"
 	.string "a face all red from anger.\p"
 	.string "I sure seem to run into you often.\n"
-	.string "Are you off to FORTREE GYM next?\p"
+	.string "Are you off to the CHILLAGE GYM next?\p"
 	.string "I expect that you'll do well at the GYM.\n"
 	.string "Well, I'll be seeing you!$"
 
@@ -557,7 +557,7 @@ Route119_Text_ScottYouWonAtFortreeGym:
 	.string "… … … … … Beep!\p"
 	.string "SCOTT: Hiya, {PLAYER}{KUN}, it's me!\p"
 	.string "Just as I thought, you won at\n"
-	.string "the FORTREE GYM.\p"
+	.string "the CHILLAGE GYM.\p"
 	.string "Your strength…\n"
 	.string "Perhaps you really are the TRAINER\l"
 	.string "that I've been searching for.\p"
@@ -599,7 +599,7 @@ Route119_Text_CanYourMonMakeSecretBase:
 
 Route119_Text_RouteSignFortree:
 	.string "ROUTE 119\n"
-	.string "{RIGHT_ARROW} FORTREE CITY$"
+	.string "{RIGHT_ARROW} CHATOT VILLAGE (CHILLAGE)$"
 
 Route119_Text_WeatherInstitute:
 	.string "WEATHER INSTITUTE$"

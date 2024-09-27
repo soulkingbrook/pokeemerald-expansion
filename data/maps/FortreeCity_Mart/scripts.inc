@@ -35,8 +35,8 @@ FortreeCity_Mart_EventScript_Girl::
 	msgbox FortreeCity_Mart_Text_StockUpOnItems, MSGBOX_NPC
 	end
 
-FortreeCity_Mart_EventScript_Boy::
-	msgbox FortreeCity_Mart_Text_RareCandyMakesMonGrow, MSGBOX_NPC
+Chillage_Mart_EventScript_Boy::
+	msgbox Chillage_Mart_Text_BirdSeed, MSGBOX_NPC
 	end
 
 FortreeCity_Mart_Text_SuperRepelBetter:
@@ -51,7 +51,6 @@ FortreeCity_Mart_Text_StockUpOnItems:
 	.string "You never know what might happen.\n"
 	.string "Better to be safe than sorry!$"
 
-FortreeCity_Mart_Text_RareCandyMakesMonGrow:
-	.string "A RARE CANDY makes a POKéMON grow\n"
-	.string "immediately by one level.$"
+Chillage_Mart_Text_BirdSeed:
+	.string "All they sell is bird seed here!$"
 
