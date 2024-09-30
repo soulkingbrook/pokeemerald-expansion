@@ -479,6 +479,10 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 	releaseall
 	end
 
+Route119_EventScript_BlackBelt::
+	msgbox Route119_Text_ThisIsDiscrimination, MSGBOX_NPC
+	end
+
 Route119_Text_MayIntro:
 	.string "MAY: {PLAYER}{KUN}!\n"
 	.string "Where were you? I was looking for you!\p"
@@ -612,3 +616,9 @@ Route119_Text_TrainerTipsDecoration:
 	.string "Pick your favorite items and create\n"
 	.string "your very own SECRET BASE exactly the\l"
 	.string "way you want.$"
+
+Route119_Text_ThisIsDiscrimination:
+	.string "I'm appalled!\n"
+	.string "They refused entry to my POKéMON!\p"
+	.string "Oh, my poor HYDREIGON AND SHEDINJA!\n"
+	.string "This is discrimination!$"

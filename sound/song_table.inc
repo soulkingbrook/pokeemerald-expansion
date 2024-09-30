@@ -613,6 +613,8 @@ gSongTable::
 	song ph_nurse_solo, 2, 2
 	song mus_family_guy_intro, 0, 0
 	song mus_angry_beavers, 0, 0
+	song mus_vs_wild_new, 0, 0
+	song mus_vs_franky, 0, 0
 
 	.align 2
 dummy_song_header:

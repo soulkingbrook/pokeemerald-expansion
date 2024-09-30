@@ -544,7 +544,9 @@
 #define PH_NURSE_HELD               608
 #define PH_NURSE_SOLO               609
 #define MUS_FAMILY_GUY_INTRO        610
-#define MUS_ANGRY_BEAVERS           612
+#define MUS_ANGRY_BEAVERS           611
+#define MUS_VS_WILD_NEW             612
+#define MUS_VS_FRANKY               613
 
 #define MUS_ROUTE118                0x7FFF  // Map is split into 2 music sections. controlled by GetCurrLocationDefaultMusic().
 

@@ -878,8 +878,8 @@ gText_PokemonTrainerSchoolEmail::
 	.string "BB: Sounds like you need a real hobby.\n"
 	.string "MAYDAY: Writing IS a real hobby!\p"
 	.string "BB: Not when it involves living members of\n"
-	.string "the POKéMON LEAGUE. What the fuck is wrong\l"
-	.string "with you?\p"
+	.string "the POKéMON LEAGUE. What the fuck is\l"
+	.string "wrong with you?\p"
 	.string "MAYDAY: Does that mean it's okay to write\n"
 	.string "slash of dead LEAGUE members?\p"
 	.string "KAT: My mum just passed, guys.$"
@@ -1085,3 +1085,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/frontier_brain.inc"
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
+
+	.include "data/maps/Route117_BreedjectRanch/scripts.inc"

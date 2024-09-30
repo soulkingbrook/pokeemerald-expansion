@@ -74,6 +74,10 @@ Route117_EventScript_DayCareSign::
 	msgbox Route117_Text_DayCareSign, MSGBOX_SIGN
 	end
 
+Route117_EventScript_BreedjectRanchSign::
+	msgbox Route117_Text_BreedjectRanchSign, MSGBOX_SIGN
+	end
+
 Route117_EventScript_Isaac::
 	trainerbattle_single TRAINER_ISAAC_1, Route117_Text_IsaacIntro, Route117_Text_IsaacDefeat, Route117_EventScript_RegisterIsaac
 	specialvar VAR_RESULT, ShouldTryRematchBattle
@@ -241,3 +245,7 @@ Route117_Text_RouteSignMauville:
 Route117_Text_DayCareSign:
 	.string "POKéMON DAY CARE\n"
 	.string "“Let us raise your POKéMON.”$"
+
+Route117_Text_BreedjectRanchSign:
+	.string "BREEDJECT RANCH\n"
+	.string "“For all your training needs.”$"

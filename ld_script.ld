@@ -1265,6 +1265,8 @@ SECTIONS {
         sound/songs/midi/ph_nurse_solo.o(.rodata);
         sound/songs/midi/mus_family_guy_intro.o(.rodata);
         sound/songs/midi/mus_angry_beavers.o(.rodata);
+        sound/songs/midi/mus_vs_wild_new.o(.rodata);
+        sound/songs/midi/mus_vs_franky.o(.rodata);
     } > ROM =0
 
     lib_rodata :

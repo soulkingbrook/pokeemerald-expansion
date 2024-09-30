@@ -639,6 +639,12 @@ $(MID_SUBDIR)/mus_family_guy_intro.s: %.s: %.mid
 $(MID_SUBDIR)/mus_angry_beavers.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V080
 
+$(MID_SUBDIR)/mus_vs_wild_new.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G194 -V080 -P1
+
+$(MID_SUBDIR)/mus_vs_franky.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G195 -V080 -P1
+
 $(MID_SUBDIR)/ph_choice_blend.s: %.s: %.mid
 	$(MID) $< $@ -E -G130 -P4
 
