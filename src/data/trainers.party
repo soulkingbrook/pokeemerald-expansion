@@ -4822,10 +4822,10 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Tackle
 - Rock Tomb
 
-=== TRAINER_BRAWLY_1 ===
-Name: BRAWLY
+=== TRAINER_BROOK_1 ===
+Name: BROOK
 Class: Leader
-Pic: Leader Brawly
+Pic: Leader Brook
 Gender: Male
 Music: Male
 Items: Super Potion / Super Potion
@@ -14353,10 +14353,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 - Rock Slide
 
-=== TRAINER_BRAWLY_2 ===
-Name: BRAWLY
+=== TRAINER_BROOK_2 ===
+Name: BROOK
 Class: Leader
-Pic: Leader Brawly
+Pic: Leader Brook
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
@@ -14395,10 +14395,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Belly Drum
 - Earthquake
 
-=== TRAINER_BRAWLY_3 ===
-Name: BRAWLY
+=== TRAINER_BROOK_3 ===
+Name: BROOK
 Class: Leader
-Pic: Leader Brawly
+Pic: Leader Brook
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
@@ -14437,10 +14437,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Belly Drum
 - Earthquake
 
-=== TRAINER_BRAWLY_4 ===
-Name: BRAWLY
+=== TRAINER_BROOK_4 ===
+Name: BROOK
 Class: Leader
-Pic: Leader Brawly
+Pic: Leader Brook
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
@@ -14487,10 +14487,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Belly Drum
 - Earthquake
 
-=== TRAINER_BRAWLY_5 ===
-Name: BRAWLY
+=== TRAINER_BROOK_5 ===
+Name: BROOK
 Class: Leader
-Pic: Leader Brawly
+Pic: Leader Brook
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore

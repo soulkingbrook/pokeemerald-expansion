@@ -383,23 +383,23 @@ static const struct MatchCallStructTrainer sRoxanneMatchCallHeader =
     .textData = sRoxanneTextScripts
 };
 
-static const match_call_text_data_t sBrawlyTextScripts[] = {
-    { MatchCall_Text_Brawly1, 0xFFFE,              0xFFFF },
-    { MatchCall_Text_Brawly2, 0xFFFF,              0xFFFF },
-    { MatchCall_Text_Brawly3, 0xFFFF,              0xFFFF },
-    { MatchCall_Text_Brawly4, FLAG_SYS_GAME_CLEAR, 0xFFFF },
-    { NULL,                   0xFFFF,              0xFFFF }
+static const match_call_text_data_t sBrookTextScripts[] = {
+    { MatchCall_Text_Brook1, 0xFFFE,              0xFFFF },
+    { MatchCall_Text_Brook2, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Brook3, 0xFFFF,              0xFFFF },
+    { MatchCall_Text_Brook4, FLAG_SYS_GAME_CLEAR, 0xFFFF },
+    { NULL,                  0xFFFF,              0xFFFF }
 };
 
-static const struct MatchCallStructTrainer sBrawlyMatchCallHeader =
+static const struct MatchCallStructTrainer sBrookMatchCallHeader =
 {
     .type = MC_TYPE_LEADER,
     .mapSec = MAPSEC_DEWFORD_TOWN,
-    .flag = FLAG_ENABLE_BRAWLY_MATCH_CALL,
-    .rematchTableIdx = REMATCH_BRAWLY,
-    .desc = gText_BrawlyMatchCallDesc,
+    .flag = FLAG_ENABLE_BROOK_MATCH_CALL,
+    .rematchTableIdx = REMATCH_BROOK,
+    .desc = gText_BrookMatchCallDesc,
     .name = NULL,
-    .textData = sBrawlyTextScripts
+    .textData = sBrookTextScripts
 };
 
 static const match_call_text_data_t sWattsonTextScripts[] = {
@@ -588,7 +588,7 @@ static const match_call_t sMatchCallHeaders[] = {
     [MC_HEADER_STEVEN]     = {.npc    = &sStevenMatchCallHeader},
     [MC_HEADER_SCOTT]      = {.npc    = &sScottMatchCallHeader},
     [MC_HEADER_ROXANNE]    = {.leader = &sRoxanneMatchCallHeader},
-    [MC_HEADER_BRAWLY]     = {.leader = &sBrawlyMatchCallHeader},
+    [MC_HEADER_BROOK]      = {.leader = &sBrookMatchCallHeader},
     [MC_HEADER_WATTSON]    = {.leader = &sWattsonMatchCallHeader},
     [MC_HEADER_FLANNERY]   = {.leader = &sFlanneryMatchCallHeader},
     [MC_HEADER_WINONA]     = {.leader = &sWinonaMatchCallHeader},

@@ -11935,14 +11935,14 @@ F_TRAINER_FEMALE |
         },
     },
 #line 4825
-    [TRAINER_BRAWLY_1] =
+    [TRAINER_BROOK_1] =
     {
 #line 4826
-        .trainerName = _("BRAWLY"),
+        .trainerName = _("BROOK"),
 #line 4827
         .trainerClass = TRAINER_CLASS_LEADER,
 #line 4828
-        .trainerPic = TRAINER_PIC_LEADER_BRAWLY,
+        .trainerPic = TRAINER_PIC_LEADER_BROOK,
         .encounterMusic_gender = 
 #line 4830
             TRAINER_ENCOUNTER_MUSIC_MALE,
@@ -36013,14 +36013,14 @@ F_TRAINER_FEMALE |
         },
     },
 #line 14356
-    [TRAINER_BRAWLY_2] =
+    [TRAINER_BROOK_2] =
     {
 #line 14357
-        .trainerName = _("BRAWLY"),
+        .trainerName = _("BROOK"),
 #line 14358
         .trainerClass = TRAINER_CLASS_LEADER,
 #line 14359
-        .trainerPic = TRAINER_PIC_LEADER_BRAWLY,
+        .trainerPic = TRAINER_PIC_LEADER_BROOK,
         .encounterMusic_gender = 
 #line 14361
             TRAINER_ENCOUNTER_MUSIC_MALE,
@@ -36112,14 +36112,14 @@ F_TRAINER_FEMALE |
         },
     },
 #line 14398
-    [TRAINER_BRAWLY_3] =
+    [TRAINER_BROOK_3] =
     {
 #line 14399
-        .trainerName = _("BRAWLY"),
+        .trainerName = _("BROOK"),
 #line 14400
         .trainerClass = TRAINER_CLASS_LEADER,
 #line 14401
-        .trainerPic = TRAINER_PIC_LEADER_BRAWLY,
+        .trainerPic = TRAINER_PIC_LEADER_BROOK,
         .encounterMusic_gender = 
 #line 14403
             TRAINER_ENCOUNTER_MUSIC_MALE,
@@ -36211,14 +36211,14 @@ F_TRAINER_FEMALE |
         },
     },
 #line 14440
-    [TRAINER_BRAWLY_4] =
+    [TRAINER_BROOK_4] =
     {
 #line 14441
-        .trainerName = _("BRAWLY"),
+        .trainerName = _("BROOK"),
 #line 14442
         .trainerClass = TRAINER_CLASS_LEADER,
 #line 14443
-        .trainerPic = TRAINER_PIC_LEADER_BRAWLY,
+        .trainerPic = TRAINER_PIC_LEADER_BROOK,
         .encounterMusic_gender = 
 #line 14445
             TRAINER_ENCOUNTER_MUSIC_MALE,
@@ -36328,14 +36328,14 @@ F_TRAINER_FEMALE |
         },
     },
 #line 14490
-    [TRAINER_BRAWLY_5] =
+    [TRAINER_BROOK_5] =
     {
 #line 14491
-        .trainerName = _("BRAWLY"),
+        .trainerName = _("BROOK"),
 #line 14492
         .trainerClass = TRAINER_CLASS_LEADER,
 #line 14493
-        .trainerPic = TRAINER_PIC_LEADER_BRAWLY,
+        .trainerPic = TRAINER_PIC_LEADER_BROOK,
         .encounterMusic_gender = 
 #line 14495
             TRAINER_ENCOUNTER_MUSIC_MALE,
