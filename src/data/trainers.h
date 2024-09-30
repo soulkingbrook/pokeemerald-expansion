@@ -4193,10 +4193,10 @@ F_TRAINER_FEMALE |
         },
     },
 #line 1753
-    [TRAINER_BROOKE_1] =
+    [TRAINER_HARUHI_1] =
     {
 #line 1754
-        .trainerName = _("BROOKE"),
+        .trainerName = _("HARUHI"),
 #line 1755
         .trainerClass = TRAINER_CLASS_COOLTRAINER,
 #line 1756
@@ -4522,10 +4522,10 @@ F_TRAINER_FEMALE |
         },
     },
 #line 1879
-    [TRAINER_BROOKE_2] =
+    [TRAINER_HARUHI_2] =
     {
 #line 1880
-        .trainerName = _("BROOKE"),
+        .trainerName = _("HARUHI"),
 #line 1881
         .trainerClass = TRAINER_CLASS_COOLTRAINER,
 #line 1882
@@ -4580,10 +4580,10 @@ F_TRAINER_FEMALE |
         },
     },
 #line 1901
-    [TRAINER_BROOKE_3] =
+    [TRAINER_HARUHI_3] =
     {
 #line 1902
-        .trainerName = _("BROOKE"),
+        .trainerName = _("HARUHI"),
 #line 1903
         .trainerClass = TRAINER_CLASS_COOLTRAINER,
 #line 1904
@@ -4638,10 +4638,10 @@ F_TRAINER_FEMALE |
         },
     },
 #line 1923
-    [TRAINER_BROOKE_4] =
+    [TRAINER_HARUHI_4] =
     {
 #line 1924
-        .trainerName = _("BROOKE"),
+        .trainerName = _("HARUHI"),
 #line 1925
         .trainerClass = TRAINER_CLASS_COOLTRAINER,
 #line 1926
@@ -4696,10 +4696,10 @@ F_TRAINER_FEMALE |
         },
     },
 #line 1945
-    [TRAINER_BROOKE_5] =
+    [TRAINER_HARUHI_5] =
     {
 #line 1946
-        .trainerName = _("BROOKE"),
+        .trainerName = _("HARUHI"),
 #line 1947
         .trainerClass = TRAINER_CLASS_COOLTRAINER,
 #line 1948

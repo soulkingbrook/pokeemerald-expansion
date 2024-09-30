@@ -513,25 +513,25 @@ Route111_EventScript_RematchWilton::
 	msgbox Route111_Text_WiltonPostRematch, MSGBOX_AUTOCLOSE
 	end
 
-Route111_EventScript_Brooke::
-	trainerbattle_single TRAINER_BROOKE_1, Route111_Text_BrookeIntro, Route111_Text_BrookeDefeat, Route111_EventScript_RegisterBrooke
+Route111_EventScript_Haruhi::
+	trainerbattle_single TRAINER_HARUHI_1, Route111_Text_HaruhiIntro, Route111_Text_HaruhiDefeat, Route111_EventScript_RegisterHaruhi
 	specialvar VAR_RESULT, ShouldTryRematchBattle
-	goto_if_eq VAR_RESULT, TRUE, Route111_EventScript_RematchBrooke
-	msgbox Route111_Text_BrookePostBattle, MSGBOX_DEFAULT
+	goto_if_eq VAR_RESULT, TRUE, Route111_EventScript_RematchHaruhi
+	msgbox Route111_Text_HaruhiPostBattle, MSGBOX_DEFAULT
 	release
 	end
 
-Route111_EventScript_RegisterBrooke::
+Route111_EventScript_RegisterHaruhi::
 	special PlayerFaceTrainerAfterBattle
 	waitmovement 0
-	msgbox Route111_Text_BrookeRegister, MSGBOX_DEFAULT
-	register_matchcall TRAINER_BROOKE_1
+	msgbox Route111_Text_HaruhiRegister, MSGBOX_DEFAULT
+	register_matchcall TRAINER_HARUHI_1
 	release
 	end
 
-Route111_EventScript_RematchBrooke::
-	trainerbattle_rematch TRAINER_BROOKE_1, Route111_Text_BrookeRematchIntro, Route111_Text_BrookeRematchDefeat
-	msgbox Route111_Text_BrookePostRematch, MSGBOX_AUTOCLOSE
+Route111_EventScript_RematchHaruhi::
+	trainerbattle_rematch TRAINER_HARUHI_1, Route111_Text_HaruhiRematchIntro, Route111_Text_HaruhiRematchDefeat
+	msgbox Route111_Text_HaruhiPostRematch, MSGBOX_AUTOCLOSE
 	end
 
 Route111_EventScript_Hayden::

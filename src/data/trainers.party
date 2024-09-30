@@ -1750,8 +1750,8 @@ Manectric
 Level: 45
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-=== TRAINER_BROOKE_1 ===
-Name: BROOKE
+=== TRAINER_HARUHI_1 ===
+Name: HARUHI
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1876,8 +1876,8 @@ Tropius
 Level: 42
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-=== TRAINER_BROOKE_2 ===
-Name: BROOKE
+=== TRAINER_HARUHI_2 ===
+Name: HARUHI
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1898,8 +1898,8 @@ Roselia
 Level: 26
 IVs: 13 HP / 13 Atk / 13 Def / 13 SpA / 13 SpD / 13 Spe
 
-=== TRAINER_BROOKE_3 ===
-Name: BROOKE
+=== TRAINER_HARUHI_3 ===
+Name: HARUHI
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1920,8 +1920,8 @@ Roselia
 Level: 29
 IVs: 14 HP / 14 Atk / 14 Def / 14 SpA / 14 SpD / 14 Spe
 
-=== TRAINER_BROOKE_4 ===
-Name: BROOKE
+=== TRAINER_HARUHI_4 ===
+Name: HARUHI
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female
@@ -1942,8 +1942,8 @@ Roselia
 Level: 32
 IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
-=== TRAINER_BROOKE_5 ===
-Name: BROOKE
+=== TRAINER_HARUHI_5 ===
+Name: HARUHI
 Class: Cooltrainer
 Pic: Cooltrainer F
 Gender: Female

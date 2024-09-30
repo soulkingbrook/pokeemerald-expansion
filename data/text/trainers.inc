@@ -1391,35 +1391,35 @@ Route111_Text_WiltonPostRematch:
 	.string "Since you're that strong, you should\n"
 	.string "aim for the POKéMON LEAGUE.$"
 
-Route111_Text_BrookeIntro:
+Route111_Text_HaruhiIntro:
 	.string "Oh, your POKéMON look like serious\n"
 	.string "actors.\l"
 	.string "I have to ask you for an engagement.$"
 
-Route111_Text_BrookeDefeat:
+Route111_Text_HaruhiDefeat:
 	.string "They didn't just look strong,\n"
 	.string "they are strong!$"
 
-Route111_Text_BrookePostBattle:
+Route111_Text_HaruhiPostBattle:
 	.string "I thought I was raising my POKéMON\n"
 	.string "diligently, but, oh no, there is still\l"
 	.string "much to be done.$"
 
-Route111_Text_BrookeRegister:
+Route111_Text_HaruhiRegister:
 	.string "I wish I could become friends with\n"
 	.string "more strong people like you!$"
 
-Route111_Text_BrookeRematchIntro:
+Route111_Text_HaruhiRematchIntro:
 	.string "You can make POKéMON stronger or\n"
 	.string "weaker depending on the moves you\l"
 	.string "teach them.\p"
 	.string "What kinds of moves do your POKéMON\n"
 	.string "know?$"
 
-Route111_Text_BrookeRematchDefeat:
+Route111_Text_HaruhiRematchDefeat:
 	.string "You've taught them good moves!$"
 
-Route111_Text_BrookePostRematch:
+Route111_Text_HaruhiPostRematch:
 	.string "Maybe I should have stopped my\n"
 	.string "POKéMON from evolving until they\l"
 	.string "learned better moves…$"

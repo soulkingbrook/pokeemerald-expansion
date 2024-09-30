@@ -384,7 +384,7 @@
 #define FLAG_REMATCH_RICKY                   0x161
 #define FLAG_REMATCH_LILA_AND_ROY            0x162
 #define FLAG_REMATCH_CRISTIN                 0x163
-#define FLAG_REMATCH_BROOKE                  0x164
+#define FLAG_REMATCH_HARUHI                  0x164
 #define FLAG_REMATCH_WILTON                  0x165
 #define FLAG_REMATCH_VALERIE                 0x166
 #define FLAG_REMATCH_CINDY                   0x167
