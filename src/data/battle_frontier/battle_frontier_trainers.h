@@ -2088,13 +2088,13 @@ const struct BattleFrontierTrainer gBattleFrontierTrainers[FRONTIER_TRAINERS_COU
         .speechLose = {EC_WORD_YOU_RE, EC_WORD_COOL, EC_WORD_EXCL, EC_WORD_NO, EC_WORD_REALLY, EC_WORD_EXCL},
         .monSet = gBattleFrontierTrainerMons_Layton
     },
-    [FRONTIER_TRAINER_BROOKS] = {
+    [FRONTIER_TRAINER_CALLUM] = {
         .facilityClass = FACILITY_CLASS_GENTLEMAN,
-        .trainerName = _("BROOKS"),
+        .trainerName = _("CALLUM"),
         .speechBefore = {EC_WORD_THIS, EC_WORD_IS, EC_WORD_A, EC_WORD_HIGH, EC_WORD_LEVEL, EC_WORD_BATTLE},
         .speechWin = {EC_WORD_THAT_WAS, EC_WORD_HIGH, EC_WORD_LEVEL, EC_WORD_AND, EC_WORD_EXCITING, EC_WORD_TOO},
         .speechLose = {EC_WORD_YOU_RE, EC_WORD_TOO, EC_WORD_HIGH, EC_WORD_IN, EC_WORD_LEVEL, EC_WORD_ELLIPSIS},
-        .monSet = gBattleFrontierTrainerMons_Brooks
+        .monSet = gBattleFrontierTrainerMons_Callum
     },
     [FRONTIER_TRAINER_GREGORY] = {
         .facilityClass = FACILITY_CLASS_GENTLEMAN,

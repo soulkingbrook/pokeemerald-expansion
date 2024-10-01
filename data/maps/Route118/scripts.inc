@@ -248,7 +248,7 @@ Route118_EventScript_Deandre::
 Route118_Text_StevenQuestions:
 	.string "STEVEN: Hi, {PLAYER}{KUN}!\p"
 	.string "It's me, STEVEN!\n"
-	.string "We met in the cave near DEWFORD.\p"
+	.string "We met in the cave near BONELY ISLAND.\p"
 	.string "Have you met many kinds of POKéMON\n"
 	.string "since I last saw you?\p"
 	.string "There are many, many kinds of POKéMON\n"

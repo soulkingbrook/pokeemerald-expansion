@@ -448,11 +448,11 @@ static const u8 sText_ExclamationMark3[] = _("!");
 static const u8 sText_ExclamationMark4[] = _("!");
 static const u8 sText_ExclamationMark5[] = _("!");
 static const u8 sText_HP[] = _("HP");
-static const u8 sText_Attack[] = _("Attack");
-static const u8 sText_Defense[] = _("Defence");
-static const u8 sText_Speed[] = _("Speed");
-static const u8 sText_SpAttack[] = _("Sp. Atk");
-static const u8 sText_SpDefense[] = _("Sp. Def");
+static const u8 sText_Attack[] = _("ATTACK");
+static const u8 sText_Defense[] = _("DEFENCE");
+static const u8 sText_Speed[] = _("SPEED");
+static const u8 sText_SpAttack[] = _("SP. ATK");
+static const u8 sText_SpDefense[] = _("SP. DEF");
 static const u8 sText_Accuracy[] = _("accuracy");
 static const u8 sText_Evasiveness[] = _("evasiveness");
 

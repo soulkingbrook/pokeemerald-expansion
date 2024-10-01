@@ -1246,7 +1246,7 @@ PetalburgCity_Gym_Text_NormanGoToDewford:
 	.string "the GYM LEADER in RUSTBORO CITY.\p"
 	.string "But there are many more TRAINERS\n"
 	.string "who are stronger than you, {PLAYER}.\p"
-	.string "Across the sea in DEWFORD TOWN is a\n"
+	.string "Across the sea in BONELY ISLAND is a\n"
 	.string "GYM LEADER named BROOK.\p"
 	.string "You should go challenge him.$"
 

@@ -7173,7 +7173,7 @@ const u16 gBattleFrontierTrainerMons_Layton[] =
     FRONTIER_MONS_POKEMANIAC_2C
 };
 
-const u16 gBattleFrontierTrainerMons_Brooks[] =
+const u16 gBattleFrontierTrainerMons_Callum[] =
 {
     FRONTIER_MONS_GENERAL_A
 };

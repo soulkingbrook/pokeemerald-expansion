@@ -645,7 +645,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrook:
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrook:
 	.string "Whatever anyone says, my favorite\n"
-	.string "TRAINER is DEWFORD's GYM LEADER\l"
+	.string "TRAINER is BONELY ISLAND's GYM LEADER\l"
 	.string "BROOK!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:

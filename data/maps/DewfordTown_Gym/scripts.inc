@@ -285,12 +285,12 @@ DewfordTown_Gym_EventScript_GymStatue::
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "DEWFORD's GYM LEADER BROOK commands\n"
-	.string "FIGHTING-type POKéMON.\p"
+	.string "BONELY ISLAND's GYM LEADER BROOK\n"
+	.string "commands GHOST-type POKéMON.\p"
 	.string "Going against him with NORMAL-type\n"
 	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
+	.string "GHOST-type POKéMON are immune to the\n"
+	.string "attacks of NORMAL-type POKéMON,\l"
 	.string "so be careful!\p"
 	.string "What's worse, the GYM is as dark as\n"
 	.string "the ocean floor.\p"
@@ -380,54 +380,60 @@ DewfordTown_Gym_Text_CristianPostBattle:
 	.string "Go after that BADGE!$"
 
 DewfordTown_Gym_Text_BrookIntro:
-	.string "I'm BROOK!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
-	.string "Let me see what you're made of!$"
+	.string "Good day to you, young TRAINER!\n"
+	.string "I'm BROOK, BONELY ISLAND's GYM LEADER!\p"
+	.string "I spent decades alone drifting aimlessly\n"
+	.string "in the dark, with only GHOST-type\l"
+	.string "POKéMON to accompany me.\p"
+	.string "As a result, I've grown quite strong.\p"
+	.string "But eventually, they got sick of my\n"
+	.string "singing and sent me back here.\p"
+	.string "If it's a duel you want, I'd be more than\n"
+	.string "happy to oblige.$"
 
 DewfordTown_Gym_Text_BrookDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.string "My word! That battle really had my\n"
+	.string "heart pumping! …Though, being a\l"
+	.string "skeleton, I don't have a heart.\l"
+	.string "Yohohoho! Skull joke!\p"
+	.string "Alrighty then, have this GYM BADGE.$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
+	.string "{PLAYER} received the SKULL BADGE\n"
 	.string "from BROOK.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
-	.string "up to Level 30, even those you get in\l"
-	.string "trades, obey without question.\p"
-	.string "And, you'll be able to use the HM move\n"
+	.string "The SKULL BADGE allows all POKéMON\n"
+	.string "up to Level 30, including those\l"
+	.string "acquired in trades, follow orders.\p"
+	.string "Plus, you'll be able to use the HM move\n"
 	.string "FLASH outside of battle.\p"
 	.string "If you'd like, use this TECHNICAL\n"
 	.string "MACHINE, too.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
-	.string "… … … … … …$"
+	.string "It's a move which raises both ATTACK\n"
+	.string "and DEFENCE during combat.\p"
+	.string "… … … … … …\p"
+	.string "…You want to keep in touch? Of course!$"
 
 DewfordTown_Gym_Text_RegisteredBrook:
 	.string "Registered GYM LEADER BROOK\n"
 	.string "in the POKéNAV.$"
 
 DewfordTown_Gym_Text_BrookPostBattle:
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "I commend the loyalty you show towards\n"
+	.string "your POKéMON, {PLAYER}.\p"
+	.string "One more thing…\p"
+	.string "Now that that's over, would you be so\n"
+	.string "kind as to show me your panties?$"
 
 DewfordTown_Gym_Text_GymStatue:
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.string "BONELY ISLAND POKéMON GYM$"
 
 DewfordTown_Gym_Text_GymStatueCertified:
-	.string "DEWFORD TOWN POKéMON GYM\p"
+	.string "BONELY ISLAND POKéMON GYM\p"
 	.string "BROOK'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 

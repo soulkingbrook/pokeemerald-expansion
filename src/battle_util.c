@@ -8390,7 +8390,7 @@ u8 GetAttackerObedienceForAction()
 
     if (FlagGet(FLAG_BADGE01_GET)) // Stone Badge
         obedienceLevel = 20;
-    if (FlagGet(FLAG_BADGE02_GET)) // Knuckle Badge
+    if (FlagGet(FLAG_BADGE02_GET)) // Skull Badge
         obedienceLevel = 30;
     if (FlagGet(FLAG_BADGE03_GET)) // Dynamo Badge
         obedienceLevel = 40;
