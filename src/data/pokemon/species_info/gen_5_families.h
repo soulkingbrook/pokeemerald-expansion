@@ -2379,7 +2379,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .height = 7,
         .weight = 404,
         .description = COMPOUND_STRING(
-            "More than 300 feet below the surface,\n"
+            "More than 90 kilometres below the surface,\n"
             "they build mazelike nests. Their activity\n"
             "can be destructive to subway tunnels,\n"
             "but it can also help with construction."),
@@ -4124,7 +4124,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .description = COMPOUND_STRING(
             "It conceals itself in the sand and\n"
             "chomps down on the legs of any prey\n"
-            "that unwarily walk over it. Its favorite\n"
+            "that unwarily walk over it. Its favourite\n"
             "food is Trapinch."),
         .pokemonScale = 365,
         .pokemonOffset = 14,
@@ -6323,10 +6323,10 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .abilities = { ABILITY_OVERCOAT, ABILITY_MAGIC_GUARD, ABILITY_REGENERATOR },
         .bodyColor = BODY_COLOR_GREEN,
         .noFlip = TRUE,
-        .speciesName = _("Solosis"),
+        .speciesName = _("SOLOSIS"),
         .cryId = CRY_SOLOSIS,
         .natDexNum = NATIONAL_DEX_SOLOSIS,
-        .categoryName = _("Cell"),
+        .categoryName = _("CELL"),
         .height = 3,
         .weight = 10,
         .description = COMPOUND_STRING(
@@ -6386,16 +6386,16 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_AMORPHOUS),
         .abilities = { ABILITY_OVERCOAT, ABILITY_MAGIC_GUARD, ABILITY_REGENERATOR },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Duosion"),
+        .speciesName = _("DUOSION"),
         .cryId = CRY_DUOSION,
         .natDexNum = NATIONAL_DEX_DUOSION,
-        .categoryName = _("Mitosis"),
+        .categoryName = _("MITOSIS"),
         .height = 6,
         .weight = 80,
         .description = COMPOUND_STRING(
             "When their brains, now divided in two,\n"
             "are thinking the same thoughts,\n"
-            "these Pokémon exhibit their maximized\n"
+            "these POKéMON exhibit their maximised\n"
             "psychic power."),
         .pokemonScale = 422,
         .pokemonOffset = 12,
@@ -6448,16 +6448,16 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_AMORPHOUS),
         .abilities = { ABILITY_OVERCOAT, ABILITY_MAGIC_GUARD, ABILITY_REGENERATOR },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Reuniclus"),
+        .speciesName = _("REUNICLUS"),
         .cryId = CRY_REUNICLUS,
         .natDexNum = NATIONAL_DEX_REUNICLUS,
-        .categoryName = _("Multiplying"),
+        .categoryName = _("MULTIPLYING"),
         .height = 10,
         .weight = 201,
         .description = COMPOUND_STRING(
             "They use psychic power to control their\n"
             "arms, which are made of a special liquid.\n"
-            "When Reuniclus shake hands, a network\n"
+            "When REUNICLUS shake hands, a network\n"
             "forms between their brains."),
         .pokemonScale = 305,
         .pokemonOffset = 7,
@@ -7469,7 +7469,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .description = COMPOUND_STRING(
             "Wearing the shell covering they stole\n"
             "from Shelmet, they defend themselves and\n"
-            "attack with two lances. The steel armor\n"
+            "attack with two lances. The steel armour\n"
             "protects their whole body."),
         .pokemonScale = 305,
         .pokemonOffset = 7,

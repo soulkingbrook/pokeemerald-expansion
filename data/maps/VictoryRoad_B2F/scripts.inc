@@ -54,7 +54,7 @@ VictoryRoad_B2F_Text_OwenDefeat:
 	.string "The little shrimp is tough!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "The rumors I heard, that tough little\n"
+	.string "The rumours I heard, that tough little\n"
 	.string "kid is from PETALBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
@@ -65,7 +65,7 @@ VictoryRoad_B2F_Text_CarolineDefeat:
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
 	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-	.string "are long and grueling challenges.\l"
+	.string "are long and gruelling challenges.\l"
 	.string "Beware of fatigue!$"
 
 VictoryRoad_B2F_Text_JulieIntro:

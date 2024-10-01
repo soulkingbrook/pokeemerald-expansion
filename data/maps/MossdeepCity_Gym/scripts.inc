@@ -461,13 +461,13 @@ MossdeepCity_Gym_Text_SamanthaPostBattle:
 	.string "You won't hear it from me!$"
 
 MossdeepCity_Gym_Text_MauraIntro:
-	.string "The roads you have traveled…\n"
+	.string "The roads you have travelled…\n"
 	.string "What you have experienced…\p"
 	.string "Come at me with everything you've\n"
 	.string "learned!$"
 
 MossdeepCity_Gym_Text_MauraDefeat:
-	.string "You've traveled a path of greatness!$"
+	.string "You've travelled a path of greatness!$"
 
 MossdeepCity_Gym_Text_MauraPostBattle:
 	.string "A bright future awaits those who have\n"

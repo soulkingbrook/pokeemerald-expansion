@@ -370,7 +370,7 @@ gText_ApprenticePleaseTeach8::
 	.string "I'm delighted I met you, {PLAYER},\n"
 	.string "the big name in POKéMON circles!\p"
 	.string "Oh-oh-oh, I know!\n"
-	.string "May I ask a huge favor, {PLAYER}?\p"
+	.string "May I ask a huge favour, {PLAYER}?\p"
 	.string "Please take me in as your apprentice!\n"
 	.string "I want to learn from you!$"
 
@@ -634,13 +634,13 @@ gText_ApprenticePleaseTeach15::
 	.string "So, I must say I'm lucky you came along!\n"
 	.string "…You really are {PLAYER}{KUN}, yes?\p"
 	.string "No, no, if you are real, it's fine.\n"
-	.string "I merely want you to recognize me\l"
+	.string "I merely want you to recognise me\l"
 	.string "as your apprentice.$"
 
 gText_ApprenticeRejectTeaching15::
 	.string "Oh?\n"
 	.string "But what would compel you to refuse?\p"
-	.string "I apologize for being skeptical about\n"
+	.string "I apologise for being sceptical about\n"
 	.string "your identity.\p"
 	.string "Please accept my apology and\n"
 	.string "accept me as your apprentice.$"
@@ -648,7 +648,7 @@ gText_ApprenticeRejectTeaching15::
 gText_ApprenticeWhichLevelMode15::
 	.string "You really are accepting me?\n"
 	.string "I don't wish to celebrate prematurely.\p"
-	.string "If it is true, I apologize.\n"
+	.string "If it is true, I apologise.\n"
 	.string "But now, I need your advice.\p"
 	.string "If I were to enter the BATTLE TOWER,\n"
 	.string "what would be worthy of me?\l"
@@ -659,7 +659,7 @@ gText_ApprenticeLevelModeThanks15::
 	.string "Are you certain?\p"
 	.string "I see. If that's the case, that's fine.\n"
 	.string "I thank you for your time.\p"
-	.string "I realize I can annoy, but it delights\n"
+	.string "I realise I can annoy, but it delights\n"
 	.string "me that you have accepted me.\p"
 	.string "Let us meet again!$"
 
@@ -1691,7 +1691,7 @@ gText_ApprenticeWhichMon8::
 	.string "I… I'm overjoyed!\p"
 	.string "Oh-oh-oh, I know!\n"
 	.string "I shouldn't pass up this opportunity!\p"
-	.string "May I ask a huge favor, {PLAYER}?\n"
+	.string "May I ask a huge favour, {PLAYER}?\n"
 	.string "Please choose a POKéMON for me!\p"
 	.string "Please decide which would be better,\n"
 	.string "{STR_VAR_1} or {STR_VAR_2}!$"
@@ -2524,4 +2524,4 @@ gText_ApprenticeWinSpeechThanks15::
 	.string "I do believe it's high time I bid you\n"
 	.string "farewell and strike out on my own.\p"
 	.string "Thank you, my mentor!\n"
-	.string "I apologize for my skepticism!$"
+	.string "I apologise for my scepticism!$"

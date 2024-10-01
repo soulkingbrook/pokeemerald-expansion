@@ -274,7 +274,7 @@ SSTidalCorridor_Text_ScottBattleFrontierInvite:
 	.string "at the BATTLE FRONTIER!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
-	.string "This ferry is built to plow through\n"
+	.string "This ferry is built to plough through\n"
 	.string "fast-running currents.\p"
 	.string "We hope you enjoy your voyage with us.\n"
 	.string "Feel free to explore the ship.$"
@@ -316,7 +316,7 @@ SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
 	.string "MR. BRINEY: Welcome aboard, {PLAYER}{KUN}!\p"
-	.string "They made me honorary captain of\n"
+	.string "They made me honourary captain of\n"
 	.string "the S.S. TIDAL!\p"
 	.string "You can call me CAPTAIN BRINEY now!\p"
 	.string "You know, I retired once before,\n"

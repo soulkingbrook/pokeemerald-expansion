@@ -184,7 +184,7 @@ BattleFrontier_BattlePikeThreePathRoom_EventScript_HintGiver::
 	end
 
 BattleFrontier_BattlePikeThreePathRoom_EventScript_DeclineHint::
-	msgbox BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePikeThreePathRoom_Text_ApologiseForImpertinence, MSGBOX_DEFAULT
 	release
 	end
 
@@ -201,7 +201,7 @@ BattleFrontier_BattlePikeThreePathRoom_EventScript_GiveLeftRoomHint::
 	goto BattleFrontier_BattlePikeThreePathRoom_EventScript_GiveHint
 
 BattleFrontier_BattlePikeThreePathRoom_EventScript_GiveCenterRoomHint::
-	msgbox BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCentrePath, MSGBOX_DEFAULT
 	goto BattleFrontier_BattlePikeThreePathRoom_EventScript_GiveHint
 
 BattleFrontier_BattlePikeThreePathRoom_EventScript_GiveRightRoomHint::
@@ -325,17 +325,17 @@ BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
 	.string "Are you perhaps finding it difficult\n"
 	.string "to choose your path?$"
 
-BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
+BattleFrontier_BattlePikeThreePathRoom_Text_ApologiseForImpertinence:
 	.string "I see…\n"
-	.string "I apologize for my impertinence…$"
+	.string "I apologise for my impertinence…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
 	.string "Ah, let me see… There is something\n"
 	.string "about the path on the right…$"
 
-BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
+BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCentrePath:
 	.string "Ah, let me see… There is something\n"
-	.string "about the path in the center…$"
+	.string "about the path in the centre…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
 	.string "Ah, let me see… There is something\n"

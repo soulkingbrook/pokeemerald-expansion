@@ -324,7 +324,7 @@ SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
 
 SlateportCity_PokemonFanClub_Text_ExplainRedScarf:
 	.string "Let a POKéMON hold that RED SCARF.\p"
-	.string "Everyone will recognize the coolness\n"
+	.string "Everyone will recognise the coolness\n"
 	.string "of that POKéMON!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainBlueScarf:

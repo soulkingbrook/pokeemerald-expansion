@@ -367,7 +367,7 @@ TrainerHill_Entrance_Text_ExplainTrainerHill:
 	.string "the Time Board--try competing with\l"
 	.string "your friends.\p"
 	.string "In TRAINER battles along the way,\n"
-	.string "neither Exp. Points nor money will\l"
+	.string "neither EXP. Points nor money will\l"
 	.string "be awarded.$"
 
 @ Unused
@@ -391,19 +391,19 @@ TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "…Uh?\n"
 	.string "That's not it?\p"
 	.string "Anyway, I watched you on your way up.\n"
-	.string "Marvelous battling! Bravo, indeed!$"
+	.string "Marvellous battling! Bravo, indeed!$"
 
-TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
-	.string "For a marvelous someone like you,\n"
-	.string "I have the most marvelous gift!$"
+TrainerHill_Roof_Text_HaveTheMostMarvellousGift:
+	.string "For a marvellous someone like you,\n"
+	.string "I have the most marvellous gift!$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
 	.string "Oh, no, full up with things!\n"
 	.string "You'll be back later for this!$"
 
-TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
+TrainerHill_Roof_Text_GotHereMarvellouslyQuickly:
 	.string "Oh, hold on here! Did you possibly get\n"
-	.string "here marvelously quickly?\p"
+	.string "here marvellously quickly?\p"
 	.string "How splendid! You needn't have\n"
 	.string "hurried so to see me!\p"
 	.string "That is so delightful. I'll have the Time\n"

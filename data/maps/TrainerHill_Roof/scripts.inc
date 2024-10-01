@@ -21,7 +21,7 @@ TrainerHill_Roof_EventScript_GivePrize::
 	case 1, TrainerHill_Roof_EventScript_NoRoomForPrize
 	case 2, TrainerHill_Roof_EventScript_CheckFinalTime
 TrainerHill_Roof_EventScript_ReceivePrize::
-	msgbox TrainerHill_Roof_Text_HaveTheMostMarvelousGift, MSGBOX_DEFAULT
+	msgbox TrainerHill_Roof_Text_HaveTheMostMarvellousGift, MSGBOX_DEFAULT
 	playfanfare MUS_LEVEL_UP
 	message gText_ObtainedTheItem
 	waitfanfare
@@ -29,7 +29,7 @@ TrainerHill_Roof_EventScript_ReceivePrize::
 	goto TrainerHill_Roof_EventScript_CheckFinalTime
 
 TrainerHill_Roof_EventScript_NoRoomForPrize::
-	msgbox TrainerHill_Roof_Text_HaveTheMostMarvelousGift, MSGBOX_DEFAULT
+	msgbox TrainerHill_Roof_Text_HaveTheMostMarvellousGift, MSGBOX_DEFAULT
 	msgbox gText_TheBagIsFull, MSGBOX_DEFAULT
 	msgbox TrainerHill_Roof_Text_FullUpBeBackLaterForThis, MSGBOX_DEFAULT
 	goto TrainerHill_Roof_EventScript_CheckFinalTime
@@ -41,7 +41,7 @@ TrainerHill_Roof_EventScript_CheckFinalTime::
 	case 1, TrainerHill_Roof_EventScript_NoNewRecord
 	case 2, TrainerHill_Roof_EventScript_EndSpeakToOwner
 TrainerHill_Roof_EventScript_NewRecord::
-	msgbox TrainerHill_Roof_Text_GotHereMarvelouslyQuickly, MSGBOX_DEFAULT
+	msgbox TrainerHill_Roof_Text_GotHereMarvellouslyQuickly, MSGBOX_DEFAULT
 	goto TrainerHill_Roof_EventScript_EndSpeakToOwner
 	end
 

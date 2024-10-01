@@ -274,7 +274,7 @@ SlateportCity_PokemonFanClub_Text_InterviewRequestHasName:
 	.string "It's plain to see that you lavish your\n"
 	.string "love on your {STR_VAR_1}.\p"
 	.string "Okay, it's named {STR_VAR_2}.\p"
-	.string "Can I ask you a favor?\p"
+	.string "Can I ask you a favour?\p"
 	.string "I'm a TV reporter, and I'm running\n"
 	.string "a survey on POKéMON.\p"
 	.string "Would you be willing to answer a few\n"
@@ -858,7 +858,7 @@ gTVPokemonAnglerText01::
 	.string "catching {STR_VAR_2}?\p"
 	.string "GURU: Hm? Catching {STR_VAR_2}?\n"
 	.string "Well, let me tell you, use your fishing\l"
-	.string "ROD with vigor!\p"
+	.string "ROD with vigour!\p"
 	.string "Do you see {STR_VAR_1} over there?\n"
 	.string "See how the ROD is handled?\p"
 	.string "That TRAINER's already caught\n"
@@ -1052,7 +1052,7 @@ SmartShopper_Text_RandomComment1::
 	.string "If I may say so, {STR_VAR_1} must have\n"
 	.string "been stocking up for a long journey\l"
 	.string "to far-off places.\p"
-	.string "For traveling, {STR_VAR_2}S are so\n"
+	.string "For travelling, {STR_VAR_2}S are so\n"
 	.string "important!$"
 
 SmartShopper_Text_RandomComment2::
@@ -1470,7 +1470,7 @@ gTVSecretBaseVisitText00::
 
 gTVSecretBaseVisitText01::
 	.string "Oh!\n"
-	.string "How marvelous!\p"
+	.string "How marvellous!\p"
 	.string "This {STR_VAR_2}…\n"
 	.string "It's not what one would expect to\l"
 	.string "find here!$"
@@ -2316,7 +2316,7 @@ TVSecretBaseSecrets_Text_UsedGlitterMat::
 	.string "a GLITTER MAT!\p"
 	.string "The visitor is striking a variety\n"
 	.string "of poses!\p"
-	.string "The visitor appears to be fantasizing\n"
+	.string "The visitor appears to be fantasising\n"
 	.string "about being an idol!$"
 
 TVSecretBaseSecrets_Text_UsedTire::
@@ -2633,7 +2633,7 @@ ContestLiveUpdates_Text_RepeatedAppeals::
 ContestLiveUpdates_Text_ValiantEffortButLost::
 	.string "{STR_VAR_1} turned in a valiant effort,\n"
 	.string "but…\p"
-	.string "It was all for naught, finishing last.\p"
+	.string "It was all for nought, finishing last.\p"
 	.string "{STR_VAR_1} should learn from this loss\n"
 	.string "and put the knowledge to good use.$"
 
@@ -2872,7 +2872,7 @@ gTVInSearchOfTrainersText03::
 	.string "The sight of them--{STR_VAR_1} and\n"
 	.string "{STR_VAR_3}--selflessly supporting\l"
 	.string "each other in the thick of battle…\p"
-	.string "It was a marvelous sight to behold!\p"
+	.string "It was a marvellous sight to behold!\p"
 	.string "{STR_VAR_2} was the move the TRAINER\n"
 	.string "used last in our battle.\p"
 	.string "The move {STR_VAR_2} is {STR_VAR_1}\n"
@@ -2971,7 +2971,7 @@ ContestLadyShow_Text_Lost::
 	.string "But I feel like I've let down everyone\n"
 	.string "who has supported us through this.\p"
 	.string "MC: I hate to say it, but the POKéMON's\n"
-	.string "coloration is a little wanting.\p"
+	.string "colouration is a little wanting.\p"
 	.string "BEAUTY: {STR_VAR_3}, I'm so sorry…\n"
 	.string "I'll do better next time, I swear…\l"
 	.string "…Sniff… Waaaaah!\p"
@@ -2989,7 +2989,7 @@ ContestLadyShow_Text_LostBadly::
 	.string "For some reason, my {STR_VAR_2}\l"
 	.string "couldn't attract any popularity.\p"
 	.string "MC: I hate to say it, but the POKéMON's\n"
-	.string "coloration is a little wanting.\p"
+	.string "colouration is a little wanting.\p"
 	.string "BEAUTY: … … … … … …\n"
 	.string "…Sniff… Waaaaah!\p"
 	.string "Spectators: See that?\n"

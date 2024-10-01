@@ -23,10 +23,10 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_GRASS),
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_CHLOROPHYLL },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Bulbasaur"),
+        .speciesName = _("BULBASAUR"),
         .cryId = CRY_BULBASAUR,
         .natDexNum = NATIONAL_DEX_BULBASAUR,
-        .categoryName = _("Seed"),
+        .categoryName = _("SEED"),
         .height = 7,
         .weight = 69,
         .description = COMPOUND_STRING(
@@ -86,14 +86,14 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_GRASS),
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_CHLOROPHYLL },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Ivysaur"),
+        .speciesName = _("IVYSAUR"),
         .cryId = CRY_IVYSAUR,
         .natDexNum = NATIONAL_DEX_IVYSAUR,
-        .categoryName = _("Seed"),
+        .categoryName = _("SEED"),
         .height = 10,
         .weight = 130,
         .description = COMPOUND_STRING(
-            "To support its bulb, Ivysaur's legs\n"
+            "To support its bulb, IVYSAUR's legs\n"
             "grow sturdy. If it spends more time lying in\n"
             "the sunlight, the bud will soon bloom into\n"
             "a large flower."),
@@ -154,15 +154,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_GRASS),
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_CHLOROPHYLL },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Venusaur"),
+        .speciesName = _("VENUSAUR"),
         .cryId = CRY_VENUSAUR,
         .natDexNum = NATIONAL_DEX_VENUSAUR,
-        .categoryName = _("Seed"),
+        .categoryName = _("SEED"),
         .height = 20,
         .weight = 1000,
         .description = COMPOUND_STRING(
-            "Venusaur's flower is said to take on vivid\n"
-            "colors if it gets plenty of nutrition and\n"
+            "VENUSAUR's flower is said to take on vivid\n"
+            "colours if it gets plenty of nutrition and\n"
             "sunlight. The flower's aroma soothes the\n"
             "emotions of people."),
         .pokemonScale = 256,
@@ -337,16 +337,16 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_BLAZE, ABILITY_NONE, ABILITY_SOLAR_POWER },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Charmander"),
+        .speciesName = _("CHARMANDER"),
         .cryId = CRY_CHARMANDER,
         .natDexNum = NATIONAL_DEX_CHARMANDER,
-        .categoryName = _("Lizard"),
+        .categoryName = _("LIZARD"),
         .height = 6,
         .weight = 85,
         .description = COMPOUND_STRING(
             "The flame that burns at the tip of its\n"
             "tail is an indication of its emotions.\n"
-            "The flame wavers when Charmander is\n"
+            "The flame wavers when CHARMANDER is\n"
             "happy, and blazes when it is enraged."),
         .pokemonScale = 444,
         .pokemonOffset = 18,
@@ -400,17 +400,17 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_BLAZE, ABILITY_NONE, ABILITY_SOLAR_POWER },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Charmeleon"),
+        .speciesName = _("CHARMELEON"),
         .cryId = CRY_CHARMELEON,
         .natDexNum = NATIONAL_DEX_CHARMELEON,
-        .categoryName = _("Flame"),
+        .categoryName = _("FLAME"),
         .height = 11,
         .weight = 190,
         .description = COMPOUND_STRING(
             "Without pity, its sharp claws destroy foes.\n"
             "If it encounters a strong enemy, it\n"
             "becomes agitated, and the flame on its\n"
-            "tail flares with a bluish white color."),
+            "tail flares with a bluish white colour."),
         .pokemonScale = 302,
         .pokemonOffset = 9,
         .trainerScale = 256,
@@ -467,14 +467,14 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_BLAZE, ABILITY_NONE, ABILITY_SOLAR_POWER },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Charizard"),
+        .speciesName = _("CHARIZARD"),
         .cryId = CRY_CHARIZARD,
         .natDexNum = NATIONAL_DEX_CHARIZARD,
-        .categoryName = _("Flame"),
+        .categoryName = _("FLAME"),
         .height = 17,
         .weight = 905,
         .description = COMPOUND_STRING(
-            "A Charizard flies about in search of\n"
+            "A CHARIZARD flies about in search of\n"
             "strong opponents. It breathes intense\n"
             "flames that can melt any material. However,\n"
             "it will never torch a weaker foe."),
@@ -762,17 +762,17 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER, EGG_GROUP_WATER_1),
         .abilities = { ABILITY_TORRENT, ABILITY_NONE, ABILITY_RAIN_DISH },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Wartortle"),
+        .speciesName = _("WARTORTLE"),
         .cryId = CRY_WARTORTLE,
         .natDexNum = NATIONAL_DEX_WARTORTLE,
-        .categoryName = _("Turtle"),
+        .categoryName = _("TURTLE"),
         .height = 10,
         .weight = 225,
         .description = COMPOUND_STRING(
             "Its large tail is covered with rich, thick\n"
-            "fur that deepens in color with age.\n"
+            "fur that deepens in colour with age.\n"
             "The scratches on its shell are evidence\n"
-            "of this Pokémon's toughness in battle."),
+            "of this POKéMON's toughness in battle."),
         .pokemonScale = 332,
         .pokemonOffset = 10,
         .trainerScale = 256,
@@ -839,7 +839,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             "The waterspouts that protrude from its\n"
             "shell are highly accurate. Their bullets of\n"
             "water can precisely nail tin cans from\n"
-            "a distance of over 160 feet."),
+            "a distance of over 50 metres."),
         .pokemonScale = 256,
         .pokemonOffset = -1,
         .trainerScale = 293,
@@ -3464,15 +3464,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD, EGG_GROUP_FAIRY),
         .abilities = { ABILITY_STATIC, ABILITY_NONE, ABILITY_LIGHTNING_ROD },
         .bodyColor = BODY_COLOR_YELLOW,
-        .speciesName = _("Raichu"),
+        .speciesName = _("RAICHU"),
         .cryId = CRY_RAICHU,
         .natDexNum = NATIONAL_DEX_RAICHU,
-        .categoryName = _("Mouse"),
+        .categoryName = _("MOUSE"),
         .height = 8,
         .weight = 300,
         .description = COMPOUND_STRING(
             "If it stores too much electricity, its\n"
-            "behavior turns aggressive. To avoid this,\n"
+            "BEHAVIOUR turns aggressive. To avoid this,\n"
             "it occasionally discharges excess energy\n"
             "and calms itself down."),
         .pokemonScale = 426,
@@ -4753,17 +4753,17 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
     #endif
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = TRUE,
-        .speciesName = _("Igglybuff"),
+        .speciesName = _("IGGLYBUFF"),
         .cryId = CRY_IGGLYBUFF,
         .natDexNum = NATIONAL_DEX_IGGLYBUFF,
-        .categoryName = _("Balloon"),
+        .categoryName = _("BALLOON"),
         .height = 3,
         .weight = 10,
         .description = COMPOUND_STRING(
             "Its soft and pliable body is very bouncy.\n"
             "When it sings continuously with all its\n"
             "might, its body steadily turns a deepening\n"
-            "pink color."),
+            "pink colour."),
         .pokemonScale = 457,
         .pokemonOffset = -1,
         .trainerScale = 256,
@@ -4822,15 +4822,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
     #endif
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = TRUE,
-        .speciesName = _("Jigglypuff"),
+        .speciesName = _("JIGGLYPUFF"),
         .cryId = CRY_JIGGLYPUFF,
         .natDexNum = NATIONAL_DEX_JIGGLYPUFF,
-        .categoryName = _("Balloon"),
+        .categoryName = _("BALLOON"),
         .height = 5,
         .weight = 55,
         .description = COMPOUND_STRING(
             "Nothing can avoid falling asleep hearing a\n"
-            "Jigglypuff's song. The sound waves of its\n"
+            "JIGGLYPUFF's song. The sound waves of its\n"
             "singing voice match the brain waves of\n"
             "someone in a deep sleep."),
         .pokemonScale = 433,
@@ -4897,15 +4897,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
     #endif
         .bodyColor = BODY_COLOR_PINK,
         .noFlip = TRUE,
-        .speciesName = _("Wigglytuff"),
+        .speciesName = _("WIGGLYTUFF"),
         .cryId = CRY_WIGGLYTUFF,
         .natDexNum = NATIONAL_DEX_WIGGLYTUFF,
-        .categoryName = _("Balloon"),
+        .categoryName = _("BALLOON"),
         .height = 10,
         .weight = 120,
         .description = COMPOUND_STRING(
             "Its fur is the ultimate in luxuriousness.\n"
-            "Sleeping alongside a Wigglytuff is simply\n"
+            "Sleeping alongside a WIGGLYTUFF is simply\n"
             "divine. Its body expands seemingly without\n"
             "end when it inhales."),
         .pokemonScale = 328,
@@ -7297,16 +7297,16 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_SYNCHRONIZE, ABILITY_INNER_FOCUS, ABILITY_MAGIC_GUARD },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Abra"),
+        .speciesName = _("ABRA"),
         .cryId = CRY_ABRA,
         .natDexNum = NATIONAL_DEX_ABRA,
-        .categoryName = _("Psi"),
+        .categoryName = _("PSI"),
         .height = 9,
         .weight = 195,
         .description = COMPOUND_STRING(
-            "A Pokémon that sleeps 18 hours a day.\n"
+            "A POKéMON that sleeps 18 hours a day.\n"
             "Observation revealed that it uses\n"
-            "Teleport to change its location once\n"
+            "TELEPORT to change its location once\n"
             "every hour."),
         .pokemonScale = 363,
         .pokemonOffset = 14,
@@ -7361,16 +7361,16 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .abilities = { ABILITY_SYNCHRONIZE, ABILITY_INNER_FOCUS, ABILITY_MAGIC_GUARD },
         .bodyColor = BODY_COLOR_BROWN,
         .noFlip = TRUE,
-        .speciesName = _("Kadabra"),
+        .speciesName = _("KADABRA"),
         .cryId = CRY_KADABRA,
         .natDexNum = NATIONAL_DEX_KADABRA,
-        .categoryName = _("Psi"),
+        .categoryName = _("PSI"),
         .height = 13,
         .weight = 565,
         .description = COMPOUND_STRING(
-            "It is rumored that a boy with psychic\n"
+            "It is rumoured that a boy with psychic\n"
             "abilities suddenly transformed into\n"
-            "Kadabra while he was assisting research\n"
+            "KADABRA while he was assisting research\n"
             "into extrasensory powers."),
         .pokemonScale = 256,
         .pokemonOffset = 3,
@@ -7438,15 +7438,15 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_HUMAN_LIKE),
         .abilities = { ABILITY_SYNCHRONIZE, ABILITY_INNER_FOCUS, ABILITY_MAGIC_GUARD },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Alakazam"),
+        .speciesName = _("ALAKAZAM"),
         .cryId = CRY_ALAKAZAM,
         .natDexNum = NATIONAL_DEX_ALAKAZAM,
-        .categoryName = _("Psi"),
+        .categoryName = _("PSI"),
         .height = 15,
         .weight = 480,
         .description = COMPOUND_STRING(
             "While it has strong psychic abilities and\n"
-            "high intelligence, an Alakazam's muscles\n"
+            "high intelligence, an ALAKAZAM's muscles\n"
             "are very weak. It uses psychic power to\n"
             "move its body."),
         .pokemonScale = 256,
@@ -8452,7 +8452,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 1100,
         .description = COMPOUND_STRING(
             "When two Graveler smash each other over\n"
-            "dravite, their favorite food, they cause\n"
+            "dravite, their favourite food, they cause\n"
             "flashes of light and booming noises.\n"
             "People call them “fireworks of the earth.”"),
         .pokemonScale = 256,
@@ -9288,7 +9288,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             "The units at its sides are extremely\n"
             "powerful magnets. They generate enough\n"
             "magnetism to draw in iron objects from\n"
-            "over 300 feet away."),
+            "over 90 metres away."),
         .pokemonScale = 288,
         .pokemonOffset = -9,
         .trainerScale = 256,
@@ -12173,7 +12173,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .description = COMPOUND_STRING(
             "Whenever it sees something unfamiliar,\n"
             "it always licks the object because it\n"
-            "memorizes things by texture and taste.\n"
+            "memorises things by texture and taste.\n"
             "It is somewhat put off by sour things."),
         .pokemonScale = 256,
         .pokemonOffset = 4,
@@ -15667,17 +15667,17 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_WATER_ABSORB, ABILITY_WATER_ABSORB, ABILITY_HYDRATION },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Vaporeon"),
+        .speciesName = _("VAPOREON"),
         .cryId = CRY_VAPOREON,
         .natDexNum = NATIONAL_DEX_VAPOREON,
-        .categoryName = _("Bubble Jet"),
+        .categoryName = _("BUBBLE JET"),
         .height = 10,
         .weight = 290,
         .description = COMPOUND_STRING(
-            "Vaporeon underwent a spontaneous\n"
-            "mutation and grew fins and gills that\n"
-            "allow them to live underwater. They have\n"
-            "the ability to freely control water."),
+            "Despite its amicable nature, VAPOREON\n"
+            "won't hesitate to drag those that dare\n"
+            "recite the forbidden quote into their\n"
+            "watery graves."),
         .pokemonScale = 316,
         .pokemonOffset = 8,
         .trainerScale = 256,

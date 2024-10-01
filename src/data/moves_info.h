@@ -3867,7 +3867,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
 
     [MOVE_ACID_ARMOR] =
     {
-        .name = COMPOUND_STRING("ACID ARMOR"),
+        .name = COMPOUND_STRING("ACID ARMOUR"),
         .description = COMPOUND_STRING(
             "Liquifies the user's body\n"
             "to sharply raise DEFENCE."),
@@ -7475,7 +7475,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
 
     [MOVE_LUSTER_PURGE] =
     {
-        .name = COMPOUND_STRING("LUSTER PURGE"),
+        .name = COMPOUND_STRING("LUSTRE PURGE"),
         .description = COMPOUND_STRING(
             "Attacks with a burst of\n"
             "light. May lower SP. DEF."),
@@ -14983,7 +14983,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = HANDLE_EXPANDED_MOVE_NAME("MagneticFlux", "MAGNETIC FLUX"),
         .description = COMPOUND_STRING(
-            "Boosts the defenses of\n"
+            "Boosts the defences of\n"
             "those with PLUS or MINUS."),
         .effect = EFFECT_MAGNETIC_FLUX,
         .power = 0,
@@ -16592,7 +16592,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = HANDLE_EXPANDED_MOVE_NAME("SnsteelStrke", "SUNSTEEL STRIKE"),
         .description = COMPOUND_STRING(
-            "A sun-fueled strike that\n"
+            "A sun-fuelled strike that\n"
             "ignores abilities."),
         .effect = EFFECT_HIT,
         .power = 100,
@@ -16831,7 +16831,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
         .name = HANDLE_EXPANDED_MOVE_NAME("SplishySplsh", "SPLISHY SPLASH"),
         .description = COMPOUND_STRING(
             "A huge electrified wave that\n"
-            "may paralyze the foe."),
+            "may paralyse the foe."),
         .effect = EFFECT_HIT,
         .power = 90,
         .type = TYPE_WATER,
@@ -18584,7 +18584,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = COMPOUND_STRING("FIERY WRATH"),
         .description = COMPOUND_STRING(
-            "An attack fueled by your\n"
+            "An attack fuelled by your\n"
             "wrath. May cause flinching."),
         .effect = EFFECT_HIT,
         .power = 90,
@@ -20691,7 +20691,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     },
     [MOVE_ALL_OUT_PUMMELING] =
     {
-        .name = COMPOUND_STRING("ALL OUT PUMMELING"),
+        .name = COMPOUND_STRING("ALL OUT PUMMELLING"),
         .description = sNullDescription,
         .effect = EFFECT_HIT,
         .power = 1,

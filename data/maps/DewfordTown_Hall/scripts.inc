@@ -165,7 +165,7 @@ DewfordTown_Hall_EventScript_TrendDebate2::
 
 DewfordTown_Hall_EventScript_TrendDebate3::
 	call DewfordTown_Hall_EventScript_DebateReact1
-	msgbox DewfordTown_Hall_Text_OrganizeTrendParty, MSGBOX_DEFAULT
+	msgbox DewfordTown_Hall_Text_OrganiseTrendParty, MSGBOX_DEFAULT
 	call DewfordTown_Hall_EventScript_DebateReact2
 	msgbox DewfordTown_Hall_Text_BrilliantIndeed, MSGBOX_DEFAULT
 	releaseall
@@ -384,9 +384,9 @@ DewfordTown_Hall_Text_WorkOnYourSinging:
 	.string "trifle yourself with\l"
 	.string "“{STR_VAR_1}.”$"
 
-DewfordTown_Hall_Text_OrganizeTrendParty:
+DewfordTown_Hall_Text_OrganiseTrendParty:
 	.string "Anyway, as I was saying earlier, we\n"
-	.string "should get together and organize a\l"
+	.string "should get together and organise a\l"
 	.string "“{STR_VAR_1}” party\l"
 	.string "on the island.$"
 

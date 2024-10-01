@@ -18,7 +18,7 @@ PacifidlogTown_PokemonCenter_1F_EventScript_Nurse::
 	end
 
 PacifidlogTown_PokemonCenter_1F_EventScript_Girl::
-	msgbox PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard, MSGBOX_NPC
+	msgbox PacifidlogTown_PokemonCenter_1F_Text_WhatColourTrainerCard, MSGBOX_NPC
 	end
 
 PacifidlogTown_PokemonCenter_1F_EventScript_Woman::
@@ -29,8 +29,8 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	msgbox PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats, MSGBOX_NPC
 	end
 
-PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
+PacifidlogTown_PokemonCenter_1F_Text_WhatColourTrainerCard:
+	.string "What colour is your TRAINER CARD?\n"
 	.string "Mine's copper!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:

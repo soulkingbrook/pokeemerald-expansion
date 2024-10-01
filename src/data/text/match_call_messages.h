@@ -78,7 +78,7 @@ const u8 gText_MatchCallSwimmer_Tony_Pokemon[] = _("Funky WATER type!");
 const u8 gText_MatchCallSwimmer_Tony_Intro1[] = _("If I can't be out swimming,");
 const u8 gText_MatchCallSwimmer_Tony_Intro2[] = _("I'll be pumping weights.");
 
-const u8 gText_MatchCallBlackBelt_Nob_Strategy[] = _("Grand slam pummeling!");
+const u8 gText_MatchCallBlackBelt_Nob_Strategy[] = _("Grand slam pummelling!");
 const u8 gText_MatchCallBlackBelt_Nob_Pokemon[] = _("FIGHTING type.");
 const u8 gText_MatchCallBlackBelt_Nob_Intro1[] = _("Not to brag, but I can bust");
 const u8 gText_MatchCallBlackBelt_Nob_Intro2[] = _("ten roof tiles!");
@@ -200,8 +200,8 @@ const u8 gText_MatchCallTriathlete_Dylan_Intro2[] = _("become one with the wind.
 
 const u8 gText_MatchCallTriathlete_Katelyn_Strategy[] = _("All-out offensive!");
 const u8 gText_MatchCallTriathlete_Katelyn_Pokemon[] = _("WATER POKéMON rule!");
-const u8 gText_MatchCallTriathlete_Katelyn_Intro1[] = _("I must swim over 6 miles");
-const u8 gText_MatchCallTriathlete_Katelyn_Intro2[] = _("every day.");
+const u8 gText_MatchCallTriathlete_Katelyn_Intro1[] = _("I must swim over 10");
+const u8 gText_MatchCallTriathlete_Katelyn_Intro2[] = _("kilometres every day.");
 
 const u8 gText_MatchCallTriathlete_Benjamin_Strategy[] = _("Push and push again!");
 const u8 gText_MatchCallTriathlete_Benjamin_Pokemon[] = _("The strength of STEEL.");

@@ -44,7 +44,7 @@ DewfordTown_House2_Text_NoRoom:
 DewfordTown_House2_Text_ExplainSilkScarf:
 	.string "The SILK SCARF raises the power of\n"
 	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
+	.string "It's a marvellous SCARF that will go\n"
 	.string "with almost all POKéMON!$"
 
 DewfordTown_House2_Text_BrookSoCool:

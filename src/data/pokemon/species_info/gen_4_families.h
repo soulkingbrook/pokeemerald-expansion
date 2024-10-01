@@ -2635,7 +2635,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             "It appears on shallow-water beaches to\n"
             "eat sand for nourishment. Should one\n"
             "Gastrodon encounter another of a\n"
-            "different color, a fierce battle will ensue."),
+            "different colour, a fierce battle will ensue."),
         .pokemonScale = 338,
         .pokemonOffset = 8,
         .trainerScale = 256,
@@ -4876,7 +4876,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
             "If the convection microwave oven is not\n"
             "working properly, then the Rotom inhabiting\n"
             "it will become lethargic. It will gleefully\n"
-            "burn your favorite outfit in mischief."),
+            "burn your favourite outfit in mischief."),
         .pokemonScale = 530,
         .pokemonOffset = 13,
         .trainerScale = 256,

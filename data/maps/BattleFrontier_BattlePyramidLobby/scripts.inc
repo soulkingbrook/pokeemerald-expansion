@@ -692,7 +692,7 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 	.string "…Ah…\n"
 	.string "Your BAG appears to be filled.\p"
-	.string "Please return after you've organized\n"
+	.string "Please return after you've organised\n"
 	.string "your BAG's contents.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
@@ -780,7 +780,7 @@ BattleFrontier_BattlePyramidLobby_Text_HintRock:
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
 	.string "I see FIGHTING-type POKéMON…\p"
-	.string "…And, I see your POKéMON pummeled\n"
+	.string "…And, I see your POKéMON pummelled\n"
 	.string "by FIGHTING moves…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:

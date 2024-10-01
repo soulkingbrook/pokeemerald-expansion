@@ -1037,7 +1037,7 @@ RustboroCity_Text_HaveYouChallengedGym:
 	.string "challenge?\p"
 	.string "When you get that shiny GYM BADGE\n"
 	.string "in hand, I guess TRAINERS begin to\l"
-	.string "realize what is required of them.$"
+	.string "realise what is required of them.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
 	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
@@ -1247,7 +1247,7 @@ RustboroCity_Text_GymSign:
 RustboroCity_Text_DevonCorpBranchOfficeSign:
 	.string "DEVON CORP. BRANCH OFFICE\p"
 	.string "“Access limited to DEVON employees\n"
-	.string "and authorized personnel.”$"
+	.string "and authorised personnel.”$"
 
 RustboroCity_Text_CitySign:
 	.string "RUSTBORO CITY\p"

@@ -469,7 +469,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .description = COMPOUND_STRING(
             "This Pokémon snorts body fluids from\n"
             "its nose, blowing balloons to smash into\n"
-            "its foes. It practices diligently so it can\n"
+            "its foes. It practises diligently so it can\n"
             "learn to make big bubbles."),
         .pokemonScale = 491,
         .pokemonOffset = 12,
@@ -2449,7 +2449,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .speciesName = _("Mudsdale"),
         .cryId = CRY_MUDSDALE,
         .natDexNum = NATIONAL_DEX_MUDSDALE,
-        .categoryName = _("Draft Horse"),
+        .categoryName = _("Tough Horse"),
         .height = 25,
         .weight = 9200,
         .description = COMPOUND_STRING(

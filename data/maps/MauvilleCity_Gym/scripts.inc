@@ -127,7 +127,7 @@ MauvilleCity_Gym_EventScript_GiveShockWave::
 	return
 
 MauvilleCity_Gym_EventScript_CompletedNewMauville::
-	msgbox MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor, MSGBOX_DEFAULT
+	msgbox MauvilleCity_Gym_Text_WattsonGoForthAndEndeavour, MSGBOX_DEFAULT
 	release
 	end
 
@@ -377,9 +377,9 @@ MauvilleCity_Gym_Text_WattsonPostBattle:
 	.string "I swell with optimism, seeing a promising\n"
 	.string "young TRAINER like you!$"
 
-MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
+MauvilleCity_Gym_Text_WattsonGoForthAndEndeavour:
 	.string "Wahahahah!\n"
-	.string "Go forth and endeavor, youngster!$"
+	.string "Go forth and endeavour, youngster!$"
 
 MauvilleCity_Gym_Text_GymStatue:
 	.string "MAUVILLE CITY POKéMON GYM$"

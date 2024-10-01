@@ -814,7 +814,7 @@ Route110_TrickHousePuzzle_Text_FoundAScroll:
 	.string "{PLAYER} found a scroll.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER} memorized the secret code\n"
+	.string "{PLAYER} memorised the secret code\n"
 	.string "written on the scroll.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:

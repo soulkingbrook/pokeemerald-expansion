@@ -303,7 +303,7 @@ SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
 	.string "The BOSS is going to be furious…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
-	.string "Humph, sniveling wimp!\n"
+	.string "Humph, snivelling wimp!\n"
 	.string "Let me take care of this!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:

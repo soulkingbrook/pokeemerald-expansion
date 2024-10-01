@@ -262,7 +262,7 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_DefeatedAnabelSilver::
 	call BattleFrontier_EventScript_IncrementWinStreak
 	frontier_getsymbols
 	goto_if_ne VAR_RESULT, 0, BattleFrontier_BattleTowerBattleRoom_EventScript_WarpToLobbyWon
-	msgbox BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognised, MSGBOX_DEFAULT
 	playfanfare MUS_OBTAIN_SYMBOL
 	message BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol
 	waitmessage
@@ -509,7 +509,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel:
 	.string "My name is ANABEL.\p"
 	.string "I am the SALON MAIDEN, and I am in\n"
 	.string "charge of running the BATTLE TOWER…\p"
-	.string "I have heard several rumors\n"
+	.string "I have heard several rumours\n"
 	.string "about you…\p"
 	.string "In all honesty, what I have heard does\n"
 	.string "not seem attractive in any way…\p"
@@ -520,10 +520,10 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent:
 	.string "Let me see your talent in\n"
 	.string "its entirety…$"
 
-BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized:
+BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognised:
 	.string "ANABEL: Fufufu, nicely done…\p"
 	.string "Your FRONTIER PASS, please…\n"
-	.string "Your talent shall be recognized.$"
+	.string "Your talent shall be recognised.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol:
 	.string "The Ability Symbol was embossed on\n"

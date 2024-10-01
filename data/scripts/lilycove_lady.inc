@@ -530,7 +530,7 @@ LilycoveCity_PokemonCenter_1F_EventScript_Pikachu::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady:
-	.string "I'm the FAVOR LADY…$"
+	.string "I'm the FAVOUR LADY…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing:
 	.string "I've recently developed an obsession\n"
@@ -604,7 +604,7 @@ LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
 	.string "Oh, you can't have it if you don't have\n"
 	.string "the space for it.\p"
 	.string "Please come see me when you get\n"
-	.string "your BAG organized…$"
+	.string "your BAG organised…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady:
 	.string "I'm the QUIZ LADY!\n"

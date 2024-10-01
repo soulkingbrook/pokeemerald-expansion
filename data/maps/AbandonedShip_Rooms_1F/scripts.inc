@@ -69,9 +69,9 @@ AbandonedShip_Rooms_1F_Text_DemetriusIntro:
 	.string "I've been found! …Huh?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "Oh, you're not my mum.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
+	.string "I'm in trouble with my mum, so I ran.\n"
 	.string "Keep it a secret where I am!$"
 

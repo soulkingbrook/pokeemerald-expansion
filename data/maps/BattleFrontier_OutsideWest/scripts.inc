@@ -376,7 +376,7 @@ BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
 	.string "It's not as if just anyone can come\n"
 	.string "here, you know?\p"
 	.string "Only those TRAINERS who've been\n"
-	.string "recognized as tough are brought here.\p"
+	.string "recognised as tough are brought here.\p"
 	.string "That's why many TRAINERS don't even\n"
 	.string "know about the BATTLE FRONTIER.$"
 
@@ -517,7 +517,7 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
 	.string "BATTLE DOME every day now.$"
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
-	.string "I heard a rumor that someone saw\n"
+	.string "I heard a rumour that someone saw\n"
 	.string "a POKéMON with an unusually long tail\l"
 	.string "somewhere in the BATTLE FRONTIER.\p"
 	.string "It must be adorable. I'm sure of it…\p"

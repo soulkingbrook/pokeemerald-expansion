@@ -304,7 +304,7 @@ BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
 	.string "Now, then!\p"
 	.string "I sense my own courage is off\n"
-	.string "the meter!$"
+	.string "the metre!$"
 
 BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 	.string "Everything you have!\n"

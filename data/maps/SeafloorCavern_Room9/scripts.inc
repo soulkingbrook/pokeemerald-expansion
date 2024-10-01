@@ -229,7 +229,7 @@ SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
 	.string "ARCHIE: Hold it right there.$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "ARCHIE: Fufufu…\n"
+	.string "ARCHIE: Bwahaha…\n"
 	.string "So it was you, after all.$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
@@ -243,7 +243,7 @@ SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
 	.string "ARCHIE: It surprises me, how you've\n"
 	.string "managed to chase me here.\p"
 	.string "But that's all over now.\p"
-	.string "For the realization of my dream,\n"
+	.string "For the realisation of my dream,\n"
 	.string "you must disappear now!$"
 
 SeafloorCavern_Room9_Text_ArchieDefeat:
@@ -251,8 +251,8 @@ SeafloorCavern_Room9_Text_ArchieDefeat:
 	.string "I lost to a mere child like you?!$"
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
-	.string "ARCHIE: Fufufu…\p"
-	.string "I commend you. I must recognize that\n"
+	.string "ARCHIE: Bwahaha…\p"
+	.string "I commend you. I must recognise that\n"
 	.string "you are truly gifted.\p"
 	.string "But!\n"
 	.string "I have this in my possession!\p"
@@ -278,7 +278,7 @@ SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "It's raining heavily?\p"
 	.string "Good… That should have happened.\n"
 	.string "That is why we awakened KYOGRE,\l"
-	.string "to realize TEAM AQUA's vision of\l"
+	.string "to realise TEAM AQUA's vision of\l"
 	.string "expanding the sea.\p"
 	.string "What?!\p"
 	.string "It's raining far harder than we\n"

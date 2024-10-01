@@ -598,7 +598,7 @@ BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "I wish I had them all!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
-	.string "Leave it to your mommy!\p"
+	.string "Leave it to your mummy!\p"
 	.string "If it's anything you want, I'll go\n"
 	.string "through anything to get it, honey!$"
 

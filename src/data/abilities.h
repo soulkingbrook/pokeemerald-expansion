@@ -673,7 +673,7 @@ const struct Ability gAbilitiesInfo[ABILITIES_COUNT] =
     [ABILITY_DOWNLOAD] =
     {
         .name = _("DOWNLOAD"),
-        .description = COMPOUND_STRING("Adjusts power favorably."),
+        .description = COMPOUND_STRING("Adjusts power favourably."),
         .aiRating = 7,
     },
 
@@ -785,7 +785,7 @@ const struct Ability gAbilitiesInfo[ABILITIES_COUNT] =
 
     [ABILITY_MOLD_BREAKER] =
     {
-        .name = _("MOLD BREAKER"),
+        .name = _("MOULD BREAKER"),
         .description = COMPOUND_STRING("Moves hit through abilities."),
         .aiRating = 7,
     },

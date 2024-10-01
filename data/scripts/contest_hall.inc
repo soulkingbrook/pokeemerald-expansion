@@ -1525,7 +1525,7 @@ ContestHall_Text_SeenContestantsAudienceWillVote:
 	.string "contestants.\p"
 	.string "Now it's time for primary judging!\p"
 	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.\p"
+	.string "favourite POKéMON contestants.\p"
 	.string "Without any further ado, let the\n"
 	.string "voting begin!$"
 
@@ -1780,7 +1780,7 @@ ContestHall_Text_WeveSeenContestants:
 
 ContestHall_Text_AudienceWillVote:
 	.string "The audience will vote on their\n"
-	.string "favorite POKéMON contestants.$"
+	.string "favourite POKéMON contestants.$"
 
 ContestHall_Text_LetVotingBegin:
 	.string "Without any further ado,\n"

@@ -19,7 +19,7 @@ Route114_LanettesHouse_EventScript_Lanette::
 	end
 
 Route114_LanettesHouse_EventScript_OfferAdvice::
-	msgbox Route114_LanettesHouse_Text_OrganizeYourBoxes, MSGBOX_DEFAULT
+	msgbox Route114_LanettesHouse_Text_OrganiseYourBoxes, MSGBOX_DEFAULT
 	release
 	end
 
@@ -53,10 +53,10 @@ Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 	.string "This is embarrassing… Please keep\n"
 	.string "this a secret in exchange for this.$"
 
-Route114_LanettesHouse_Text_OrganizeYourBoxes:
+Route114_LanettesHouse_Text_OrganiseYourBoxes:
 	.string "May I offer advice about my POKéMON\n"
 	.string "Storage System?\p"
-	.string "You should organize your BOXES so you\n"
+	.string "You should organise your BOXES so you\n"
 	.string "can tell which POKéMON are in them.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
@@ -69,7 +69,7 @@ Route114_LanettesHouse_Text_ResearchNotesPage1:
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
 	.string "A marking system should be added to\n"
-	.string "make POKéMON easier to organize.\p"
+	.string "make POKéMON easier to organise.\p"
 	.string "The name and wallpaper design of each\n"
 	.string "BOX will be made changeable to please\l"
 	.string "the stored POKéMON.\p"

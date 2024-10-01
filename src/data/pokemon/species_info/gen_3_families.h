@@ -1265,10 +1265,10 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),
         .abilities = { ABILITY_SHIELD_DUST, ABILITY_NONE, ABILITY_RUN_AWAY },
         .bodyColor = BODY_COLOR_RED,
-        .speciesName = _("Wurmple"),
+        .speciesName = _("WURMPLE"),
         .cryId = CRY_WURMPLE,
         .natDexNum = NATIONAL_DEX_WURMPLE,
-        .categoryName = _("Worm"),
+        .categoryName = _("WORM"),
         .height = 3,
         .weight = 36,
         .description = COMPOUND_STRING(
@@ -1328,15 +1328,15 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),
         .abilities = { ABILITY_SHED_SKIN, ABILITY_NONE, ABILITY_NONE },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("Silcoon"),
+        .speciesName = _("SILCOON"),
         .cryId = CRY_SILCOON,
         .natDexNum = NATIONAL_DEX_SILCOON,
-        .categoryName = _("Cocoon"),
+        .categoryName = _("COCOON"),
         .height = 6,
         .weight = 100,
         .description = COMPOUND_STRING(
             "It prepares for evolution using the\n"
-            "energy it stored while it was a Wurmple.\n"
+            "energy it stored while it was a WURMPLE.\n"
             "It keeps watch over the surroundings with\n"
             "its two eyes."),
         .pokemonScale = 431,
@@ -1399,14 +1399,14 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),
         .abilities = { ABILITY_SWARM, ABILITY_NONE, ABILITY_RIVALRY },
         .bodyColor = BODY_COLOR_YELLOW,
-        .speciesName = _("Beautifly"),
+        .speciesName = _("BEAUTIFLY"),
         .cryId = CRY_BEAUTIFLY,
         .natDexNum = NATIONAL_DEX_BEAUTIFLY,
-        .categoryName = _("Butterfly"),
+        .categoryName = _("BUTTERFLY"),
         .height = 10,
         .weight = 284,
         .description = COMPOUND_STRING(
-            "Its colorfully patterned wings are its\n"
+            "Its colourfully patterned wings are its\n"
             "most prominent feature. It flies through\n"
             "flower-covered fields collecting pollen.\n"
             "It attacks ferociously when angered."),
@@ -1470,10 +1470,10 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),
         .abilities = { ABILITY_SHED_SKIN, ABILITY_NONE, ABILITY_NONE },
         .bodyColor = BODY_COLOR_PURPLE,
-        .speciesName = _("Cascoon"),
+        .speciesName = _("CASCOON"),
         .cryId = CRY_CASCOON,
         .natDexNum = NATIONAL_DEX_CASCOON,
-        .categoryName = _("Cocoon"),
+        .categoryName = _("COCOON"),
         .height = 7,
         .weight = 115,
         .description = COMPOUND_STRING(
@@ -1543,14 +1543,14 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_BUG),
         .abilities = { ABILITY_SHIELD_DUST, ABILITY_NONE, ABILITY_COMPOUND_EYES },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Dustox"),
+        .speciesName = _("DUSTOX"),
         .cryId = CRY_DUSTOX,
         .natDexNum = NATIONAL_DEX_DUSTOX,
-        .categoryName = _("Poison Moth"),
+        .categoryName = _("POISON MOTH"),
         .height = 12,
         .weight = 316,
         .description = COMPOUND_STRING(
-            "It is a nocturnal Pokémon that flies from\n"
+            "It is a nocturnal POKéMON that flies from\n"
             "fields and mountains to the attraction of\n"
             "streetlights at night. It looses highly\n"
             "toxic powder from its wings."),
@@ -2159,7 +2159,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
             "It makes its nest on a sheer cliff at the\n"
             "edge of the sea. It has trouble keeping\n"
             "its wings flapping in flight. Instead, it\n"
-            "soars on updrafts."),
+            "soars on updraughts."),
         .pokemonScale = 295,
         .pokemonOffset = -2,
         .trainerScale = 256,
@@ -3786,7 +3786,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .height = 6,
         .weight = 110,
         .description = COMPOUND_STRING(
-            "A Skitty's adorably cute behavior makes it\n"
+            "A SKITTY's adorably cute behaviour makes it\n"
             "highly popular. In battle, it makes its tail\n"
             "puff out. It threatens foes with a sharp\n"
             "growl."),
@@ -4176,16 +4176,16 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER),
         .abilities = { ABILITY_STURDY, ABILITY_ROCK_HEAD, ABILITY_HEAVY_METAL },
         .bodyColor = BODY_COLOR_GRAY,
-        .speciesName = _("Aron"),
+        .speciesName = _("ARON"),
         .cryId = CRY_ARON,
         .natDexNum = NATIONAL_DEX_ARON,
-        .categoryName = _("Iron Armor"),
+        .categoryName = _("IRON ARMOUR"),
         .height = 4,
         .weight = 600,
         .description = COMPOUND_STRING(
-            "A Pokémon that is clad in steel armor.\n"
-            "A new suit of armor is made when it evolves.\n"
-            "The old, discarded armor is salvaged as\n"
+            "A POKéMON that is clad in steel armour.\n"
+            "A new suit of armour is made when it evolves.\n"
+            "The old, discarded armour is salvaged as\n"
             "metal for making iron products."),
         .pokemonScale = 419,
         .pokemonOffset = 23,
@@ -4239,17 +4239,17 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER),
         .abilities = { ABILITY_STURDY, ABILITY_ROCK_HEAD, ABILITY_HEAVY_METAL },
         .bodyColor = BODY_COLOR_GRAY,
-        .speciesName = _("Lairon"),
+        .speciesName = _("LAIRON"),
         .cryId = CRY_LAIRON,
         .natDexNum = NATIONAL_DEX_LAIRON,
-        .categoryName = _("Iron Armor"),
+        .categoryName = _("IRON ARMOUR"),
         .height = 9,
         .weight = 1200,
         .description = COMPOUND_STRING(
-            "When two Lairon meet in the wild, they\n"
+            "When two LAIRON meet in the wild, they\n"
             "fight for territory by bashing into each\n"
             "other with their steel bodies. The sound\n"
-            "of their collision carries for miles."),
+            "of their collision can be heard ages away."),
         .pokemonScale = 275,
         .pokemonOffset = 12,
         .trainerScale = 256,
@@ -4307,16 +4307,16 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MONSTER),
         .abilities = { ABILITY_STURDY, ABILITY_ROCK_HEAD, ABILITY_HEAVY_METAL },
         .bodyColor = BODY_COLOR_GRAY,
-        .speciesName = _("Aggron"),
+        .speciesName = _("AGGRON"),
         .cryId = CRY_AGGRON,
         .natDexNum = NATIONAL_DEX_AGGRON,
-        .categoryName = _("Iron Armor"),
+        .categoryName = _("IRON ARMOUR"),
         .height = 21,
         .weight = 3600,
         .description = COMPOUND_STRING(
             "Its iron horns grow longer a little at\n"
             "a time. They are used to determine the\n"
-            "Aggron's age. The gouges in its armor are\n"
+            "AGGRON's age. The gouges in its armour are\n"
             "worn with pride as mementos from battles."),
         .pokemonScale = 256,
         .pokemonOffset = -1,
@@ -4437,7 +4437,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .weight = 112,
         .description = COMPOUND_STRING(
             "It continually meditates for hours every\n"
-            "day. As a result of rigorous and dedicated\n"
+            "day. As a result of rigourous and dedicated\n"
             "yoga training, it has tempered its\n"
             "spiritual power so much it can fly."),
         .pokemonScale = 465,
@@ -5686,8 +5686,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .description = COMPOUND_STRING(
             "It breathes through nostrils that it\n"
             "raises above the sea. By inhaling to its\n"
-            "maximum capacity, a Wailord can dive close\n"
-            "to 10,000 feet beneath the waves."),
+            "maximum capacity, a WAILORD can dive close\n"
+            "to 3 kilometres beneath the waves."),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 1352,
@@ -8062,16 +8062,16 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .abilities = { ABILITY_COLOR_CHANGE, ABILITY_NONE, ABILITY_NONE },
     #endif
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Kecleon"),
+        .speciesName = _("KECLEON"),
         .cryId = CRY_KECLEON,
         .natDexNum = NATIONAL_DEX_KECLEON,
-        .categoryName = _("Color Swap"),
+        .categoryName = _("COLOUR SWAP"),
         .height = 10,
         .weight = 220,
         .description = COMPOUND_STRING(
-            "A Pokémon that has the ability to alter its\n"
-            "body colors to match its surroundings.\n"
-            "A Kecleon reverts to its original colors if\n"
+            "A POKéMON that has the ability to alter its\n"
+            "body colours to match its surroundings.\n"
+            "A KECLEON reverts to its original colours if\n"
             "it is startled."),
         .pokemonScale = 316,
         .pokemonOffset = 10,
@@ -9469,9 +9469,9 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .height = 18,
         .weight = 226,
         .description = COMPOUND_STRING(
-            "A Gorebyss siphons the body fluids of prey\n"
+            "A GOREBYSS siphons the body fluids of prey\n"
             "through its thin, tubular mouth. Its light\n"
-            "pink body color turns vivid when it\n"
+            "pink body colour turns vivid when it\n"
             "finishes feeding."),
         .pokemonScale = 278,
         .pokemonOffset = 5,
@@ -9913,14 +9913,14 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
         .abilities = { ABILITY_CLEAR_BODY, ABILITY_NONE, ABILITY_LIGHT_METAL },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Beldum"),
+        .speciesName = _("BELDUM"),
         .cryId = CRY_BELDUM,
         .natDexNum = NATIONAL_DEX_BELDUM,
-        .categoryName = _("Iron Ball"),
+        .categoryName = _("IRON BALL"),
         .height = 6,
         .weight = 952,
         .description = COMPOUND_STRING(
-            "When Beldum gather in a swarm, they move\n"
+            "When BELDUM gather in a swarm, they move\n"
             "in perfect unison as if they were but one\n"
             "Pokémon. They communicate with each other\n"
             "using brain waves."),
@@ -9977,17 +9977,17 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
         .abilities = { ABILITY_CLEAR_BODY, ABILITY_NONE, ABILITY_LIGHT_METAL },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Metang"),
+        .speciesName = _("METANG"),
         .cryId = CRY_METANG,
         .natDexNum = NATIONAL_DEX_METANG,
-        .categoryName = _("Iron Claw"),
+        .categoryName = _("IRON CLAW"),
         .height = 12,
         .weight = 2025,
         .description = COMPOUND_STRING(
             "The claws tipping its arms pack the\n"
             "destructive power to tear through thick\n"
             "iron sheets as if they were silk. It flies\n"
-            "at over 60 miles per hour."),
+            "at over 90 kilometres per hour."),
         .pokemonScale = 256,
         .pokemonOffset = 6,
         .trainerScale = 256,
@@ -10045,16 +10045,16 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_MINERAL),
         .abilities = { ABILITY_CLEAR_BODY, ABILITY_NONE, ABILITY_LIGHT_METAL },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Metagross"),
+        .speciesName = _("METAGROSS"),
         .cryId = CRY_METAGROSS,
         .natDexNum = NATIONAL_DEX_METAGROSS,
-        .categoryName = _("Iron Leg"),
+        .categoryName = _("IRON LEG"),
         .height = 16,
         .weight = 5500,
         .description = COMPOUND_STRING(
-            "Metagross has four brains that are joined\n"
+            "METAGROSS has four brains that are joined\n"
             "by a complex neural network. As a result of\n"
-            "integration, this Pokémon is smarter than\n"
+            "integration, this POKéMON is smarter than\n"
             "a supercomputer."),
         .pokemonScale = 256,
         .pokemonOffset = 4,

@@ -2055,7 +2055,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 285,
         .description = COMPOUND_STRING(
             "It lives in water virtually all day long.\n"
-            "Its body color and pattern act as\n"
+            "Its body colour and pattern act as\n"
             "camouflage that makes it tough for\n"
             "enemies to spot in water."),
         .pokemonScale = 448,
@@ -4524,14 +4524,14 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .abilities = { ABILITY_STURDY, ABILITY_NONE, ABILITY_CONTRARY },
     #endif
         .bodyColor = BODY_COLOR_YELLOW,
-        .speciesName = _("Shuckle"),
+        .speciesName = _("SHUCKLE"),
         .cryId = CRY_SHUCKLE,
         .natDexNum = NATIONAL_DEX_SHUCKLE,
-        .categoryName = _("Mold"),
+        .categoryName = _("MOULD"),
         .height = 6,
         .weight = 205,
         .description = COMPOUND_STRING(
-            "A Shuckle hides under rocks, keeping its\n"
+            "A SHUCKLE hides under rocks, keeping its\n"
             "body concealed inside its shell while\n"
             "eating stored berries. The berries mix with\n"
             "its body fluids to become a juice."),
@@ -5376,15 +5376,15 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .abilities = { ABILITY_OBLIVIOUS, ABILITY_NONE, ABILITY_THICK_FAT },
     #endif
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Swinub"),
+        .speciesName = _("SWINUB"),
         .cryId = CRY_SWINUB,
         .natDexNum = NATIONAL_DEX_SWINUB,
-        .categoryName = _("Pig"),
+        .categoryName = _("PIG"),
         .height = 4,
         .weight = 65,
         .description = COMPOUND_STRING(
             "It roots for food by rubbing its snout\n"
-            "against the ground. Its favorite food is a\n"
+            "against the ground. Its favourite food is a\n"
             "mushroom that grows under dried grass.\n"
             "It occasionally roots out hot springs."),
         .pokemonScale = 324,
@@ -5443,14 +5443,14 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .abilities = { ABILITY_OBLIVIOUS, ABILITY_NONE, ABILITY_THICK_FAT },
     #endif
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Piloswine"),
+        .speciesName = _("PILOSWINE"),
         .cryId = CRY_PILOSWINE,
         .natDexNum = NATIONAL_DEX_PILOSWINE,
-        .categoryName = _("Swine"),
+        .categoryName = _("SWINE"),
         .height = 11,
         .weight = 558,
         .description = COMPOUND_STRING(
-            "A Piloswine is covered by a thick coat\n"
+            "A PILOSWINE is covered by a thick coat\n"
             "of long hair for enduring freezing cold.\n"
             "It uses its tusks to dig up food that has\n"
             "been buried under ice."),
@@ -5515,16 +5515,16 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_OBLIVIOUS, ABILITY_SNOW_CLOAK, ABILITY_THICK_FAT },
         .bodyColor = BODY_COLOR_BROWN,
-        .speciesName = _("Mamoswine"),
+        .speciesName = _("MAMOSWINE"),
         .cryId = CRY_MAMOSWINE,
         .natDexNum = NATIONAL_DEX_MAMOSWINE,
-        .categoryName = _("Twin Tusk"),
+        .categoryName = _("TWIN TUSK"),
         .height = 25,
         .weight = 2910,
         .description = COMPOUND_STRING(
-            "A frozen Mamoswine was dug from ice\n"
+            "A frozen MAMOSWINE was dug from ice\n"
             "dating back 10,000 years. It woke up to\n"
-            "much amazement. This Pokémon has been\n"
+            "much amazement. This POKéMON has been\n"
             "around for a long, long, long time."),
         .pokemonScale = 257,
         .pokemonOffset = 6,
@@ -5592,17 +5592,17 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_1, EGG_GROUP_WATER_3),
         .abilities = { ABILITY_HUSTLE, ABILITY_NATURAL_CURE, ABILITY_REGENERATOR },
         .bodyColor = BODY_COLOR_PINK,
-        .speciesName = _("Corsola"),
+        .speciesName = _("CORSOLA"),
         .cryId = CRY_CORSOLA,
         .natDexNum = NATIONAL_DEX_CORSOLA,
-        .categoryName = _("Coral"),
+        .categoryName = _("CORAL"),
         .height = 6,
         .weight = 50,
         .description = COMPOUND_STRING(
-            "Corsola live in warm southern seas.\n"
+            "CORSOLA live in warm southern seas.\n"
             "If the sea becomes polluted, the beautiful\n"
-            "coral stalks become discolored and crumble\n"
-            "away in tatters."),
+            "coral stalks become discoloured and\n"
+            "crumble away in tatters."),
         .pokemonScale = 410,
         .pokemonOffset = 15,
         .trainerScale = 256,
@@ -5655,15 +5655,15 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_1, EGG_GROUP_WATER_3),
         .abilities = { ABILITY_WEAK_ARMOR, ABILITY_NONE, ABILITY_CURSED_BODY },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("Corsola"),
+        .speciesName = _("CORSOLA"),
         .cryId = CRY_CORSOLA,
         .natDexNum = NATIONAL_DEX_CORSOLA,
-        .categoryName = _("Coral"),
+        .categoryName = _("CORAL"),
         .height = 6,
         .weight = 5,
         .description = COMPOUND_STRING(
             "Sudden climate change wiped out this\n"
-            "ancient kind of Corsola. With its branches,\n"
+            "ancient kind of CORSOLA. With its branches,\n"
             "it absorbs others' life-force. It curses\n"
             "those unaware that kick it by accident."),
         .pokemonScale = 410,
@@ -5719,17 +5719,17 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_WATER_1, EGG_GROUP_WATER_3),
         .abilities = { ABILITY_WEAK_ARMOR, ABILITY_NONE, ABILITY_PERISH_BODY },
         .bodyColor = BODY_COLOR_WHITE,
-        .speciesName = _("Cursola"),
+        .speciesName = _("CURSOLA"),
         .cryId = CRY_CURSOLA,
         .natDexNum = NATIONAL_DEX_CURSOLA,
-        .categoryName = _("Coral"),
+        .categoryName = _("CORAL"),
         .height = 10,
         .weight = 4,
         .description = COMPOUND_STRING(
             "Its shell is overflowing with its\n"
             "heightened otherworldly energy. The\n"
             "ectoplasm serves as protection for this\n"
-            "Pokémon's core spirit."),
+            "POKéMON's core spirit."),
         .pokemonScale = 305,
         .pokemonOffset = 7,
         .trainerScale = 257,
@@ -6121,7 +6121,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .speciesName = _("Skarmory"),
         .cryId = CRY_SKARMORY,
         .natDexNum = NATIONAL_DEX_SKARMORY,
-        .categoryName = _("Armor Bird"),
+        .categoryName = _("ARMOUR BIRD"),
         .height = 17,
         .weight = 505,
         .description = COMPOUND_STRING(
@@ -7117,11 +7117,11 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .speciesName = _("Tyranitar"),
         .cryId = CRY_TYRANITAR,
         .natDexNum = NATIONAL_DEX_TYRANITAR,
-        .categoryName = _("Armor"),
+        .categoryName = _("ARMOUR"),
         .height = 20,
         .weight = 2020,
         .description = COMPOUND_STRING(
-            "A Tyranitar is so overwhelmingly powerful,\n"
+            "A TYRANITAR is so overwhelmingly powerful,\n"
             "it can bring down a whole mountain to make\n"
             "its nest. It roams in mountains seeking\n"
             "new opponents to fight."),

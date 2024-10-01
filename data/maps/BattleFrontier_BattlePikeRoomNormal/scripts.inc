@@ -319,7 +319,7 @@ BattleFrontier_BattlePikeRoomNormal_EventScript_KirliaAttack::
 	applymovement LOCALID_OBJ_1, BattleFrontier_BattlePikeRoomNormal_Movement_MonMoveAside
 	applymovement LOCALID_OBJ_0, BattleFrontier_BattlePikeRoomNormal_Movement_StatusNPCApproachPlayer
 	waitmovement 0
-	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologiseForKirlia, MSGBOX_DEFAULT
 	return
 
 BattleFrontier_BattlePikeRoomNormal_EventScript_DusclopsAttack::
@@ -348,7 +348,7 @@ BattleFrontier_BattlePikeRoomNormal_EventScript_DusclopsAttack::
 	applymovement LOCALID_OBJ_1, BattleFrontier_BattlePikeRoomNormal_Movement_MonMoveAside
 	applymovement LOCALID_OBJ_0, BattleFrontier_BattlePikeRoomNormal_Movement_StatusNPCApproachPlayer
 	waitmovement 0
-	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologiseForDusclops, MSGBOX_DEFAULT
 	return
 
 BattleFrontier_BattlePikeRoomNormal_EventScript_KirliaUsedToxic::
@@ -548,7 +548,7 @@ BattleFrontier_BattlePikeRoomNormal_EventScript_NormalNPC::
 BattleFrontier_BattlePikeRoomNormal_EventScript_StatusNPC::
 	lock
 	faceplayer
-	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine, MSGBOX_DEFAULT
+	msgbox BattleFrontier_BattlePikeRoomNormal_Text_ApologiseHopeMonsAreFine, MSGBOX_DEFAULT
 	closemessage
 	release
 	end
@@ -729,12 +729,12 @@ BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
 	.string "Look here!\n"
 	.string "That's quite enough!$"
 
-BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
-	.string "I must apologize to you…\p"
+BattleFrontier_BattlePikeRoomNormal_Text_ApologiseForKirlia:
+	.string "I must apologise to you…\p"
 	.string "My KIRLIA has a TIMID nature…$"
 
-BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
-	.string "I must apologize to you…\p"
+BattleFrontier_BattlePikeRoomNormal_Text_ApologiseForDusclops:
+	.string "I must apologise to you…\p"
 	.string "My DUSCLOPS has a TIMID nature…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
@@ -742,8 +742,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
 	.string "startled by another person…\p"
 	.string "Are you and your POKéMON all right?$"
 
-BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "I do apologize for what happened…\n"
+BattleFrontier_BattlePikeRoomNormal_Text_ApologiseHopeMonsAreFine:
+	.string "I do apologise for what happened…\n"
 	.string "I do hope your POKéMON are fine.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
@@ -757,7 +757,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
 	.string "How wonderful…\p"
-	.string "To honor your victory, your POKéMON\n"
+	.string "To honour your victory, your POKéMON\n"
 	.string "shall be restored to full health…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:

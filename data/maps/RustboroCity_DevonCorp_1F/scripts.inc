@@ -38,7 +38,7 @@ RustboroCity_DevonCorp_1F_EventScript_StairGuard::
 	goto_if_set FLAG_RETURNED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_AlwaysWelcome
 	goto_if_set FLAG_RECOVERED_DEVON_GOODS, RustboroCity_DevonCorp_1F_EventScript_GotRobbed
 	goto_if_set FLAG_DEVON_GOODS_STOLEN, RustboroCity_DevonCorp_1F_EventScript_GotRobbed
-	msgbox RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter, MSGBOX_DEFAULT
+	msgbox RustboroCity_DevonCorp_1F_Text_OnlyAuthorisedPeopleEnter, MSGBOX_DEFAULT
 	release
 	end
 
@@ -107,8 +107,8 @@ RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
 	.string "It sounds like they've recovered\n"
 	.string "the ripped-off DEVON GOODS.$"
 
-RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
+RustboroCity_DevonCorp_1F_Text_OnlyAuthorisedPeopleEnter:
+	.string "I'm sorry, only authorised people\n"
 	.string "are allowed to enter here.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:

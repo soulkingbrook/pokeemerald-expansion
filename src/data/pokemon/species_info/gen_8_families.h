@@ -1008,7 +1008,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .weight = 750,
         .description = COMPOUND_STRING(
             "This Pokémon reigns supreme in the skies\n"
-            "of the Galar region. The black luster of\n"
+            "of the Galar region. The black lustre of\n"
             "its steel body could drive terror into\n"
             "the heart of any foe."),
         .pokemonScale = 256,
@@ -2289,17 +2289,17 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_GRASS, EGG_GROUP_DRAGON),
         .abilities = { ABILITY_RIPEN, ABILITY_GLUTTONY, ABILITY_BULLETPROOF },
         .bodyColor = BODY_COLOR_GREEN,
-        .speciesName = _("Applin"),
+        .speciesName = _("APPLIN"),
         .cryId = CRY_APPLIN,
         .natDexNum = NATIONAL_DEX_APPLIN,
-        .categoryName = _("Apple Core"),
+        .categoryName = _("APPLE CORE"),
         .height = 2,
         .weight = 5,
         .description = COMPOUND_STRING(
-            "It spends its entire life inside an\n"
-            "apple. It hides from its natural enemies,\n"
-            "bird Pokémon, by pretending it's just an\n"
-            "apple and nothing more."),
+            "It disguises itself as an apple to hide from\n"
+            "its natural enemies, bird POKéMON. Many\n"
+            "are able to see past this, though, and\n"
+            "peck at the shell and APPLIN inside."),
         .pokemonScale = 682,
         .pokemonOffset = 24,
         .trainerScale = 256,
@@ -2613,7 +2613,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         //.frontAnimId = ANIM_V_SQUISH_AND_BOUNCE,
         .backPic = gMonBackPic_Dipplin,
         .backPicSize = MON_COORDS_SIZE(64, 64),
-        .backPicYOffset = 0,
+        .backPicYOffset = 1,
         //.backAnimId = BACK_ANIM_NONE,
         .palette = gMonPalette_Dipplin,
         .shinyPalette = gMonShinyPalette_Dipplin,

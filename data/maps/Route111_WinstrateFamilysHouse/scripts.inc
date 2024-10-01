@@ -82,8 +82,8 @@ Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
 	.string "we tend to be pretty passionate.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:
-	.string "Mommy is stronger than Daddy.\p"
-	.string "I'm stronger than Mommy.\p"
+	.string "Mummy is stronger than Daddy.\p"
+	.string "I'm stronger than Mummy.\p"
 	.string "And Grandma's stronger than me!\p"
 	.string "But my big brother is even stronger\n"
 	.string "than Grandma.$"

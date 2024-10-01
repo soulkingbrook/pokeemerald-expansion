@@ -31,7 +31,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 41,
         .description = COMPOUND_STRING(
             "The sweet scent its body gives off\n"
-            "mesmerizes those around it. The\n"
+            "mesmerises those around it. The\n"
             "scent grows stronger when this\n"
             "Pokémon is in the sun."),
         .pokemonScale = 356,
@@ -458,7 +458,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .speciesName = _("Quaxwell"),
         .cryId = CRY_QUAXWELL,
         .natDexNum = NATIONAL_DEX_QUAXWELL,
-        .categoryName = _("Practicing"),
+        .categoryName = _("PRACTISING"),
         .height = 12,
         .weight = 215,
         .description = COMPOUND_STRING(

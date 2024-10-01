@@ -819,7 +819,7 @@ SootopolisCity_EventScript_Woman1Legendaries::
 	end
 
 SootopolisCity_EventScript_Woman1PostLegendaries::
-	msgbox SootopolisCity_Text_NightSkyFavoriteScenery, MSGBOX_DEFAULT
+	msgbox SootopolisCity_Text_NightSkyFavouriteScenery, MSGBOX_DEFAULT
 	release
 	end
 
@@ -1572,12 +1572,12 @@ SootopolisCity_Text_FearedWorstWhenPokemonFlewDown:
 	.string "When that third POKéMON flew down,\n"
 	.string "I feared the worst.$"
 
-SootopolisCity_Text_NightSkyFavoriteScenery:
+SootopolisCity_Text_NightSkyFavouriteScenery:
 	.string "A circle of a night sky framed by\n"
 	.string "the crater of a volcano…\p"
 	.string "And in that ring, stars flicker and\n"
 	.string "blink as if they were alive…\l"
-	.string "It's my favorite scenery.$"
+	.string "It's my favourite scenery.$"
 
 SootopolisCity_Text_WeatherWentWild:
 	.string "The weather was clear this morning,\n"

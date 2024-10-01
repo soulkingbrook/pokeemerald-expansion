@@ -845,7 +845,7 @@ gText_PokemartSign::
 
 gText_PokemonCenterSign::
 	.string "“Rejuvenate your tired partners!”\n"
-	.string "POKéMON CENTER$"
+	.string "POKéMON CENTRE$"
 
 gText_MomOrDadMightLikeThisProgram::
 	.string "{STR_VAR_1} might like this program.\n"
@@ -940,7 +940,7 @@ gText_UndergoingAdjustments::
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
+	.string "I'm terribly sorry. The TRADE CENTRE\n"
 	.string "is undergoing inspections.$"
 
 @ Unused

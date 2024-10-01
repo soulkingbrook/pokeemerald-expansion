@@ -1120,7 +1120,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
 	.string "TUCKER: Ah…\n"
-	.string "The pummeling roar of the crowd…\l"
+	.string "The pummelling roar of the crowd…\l"
 	.string "Their furnace-like heat of excitement…\l"
 	.string "This is a wonderful place…\p"
 	.string "To the crowd, I am the DOME ACE…\n"

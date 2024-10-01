@@ -98,7 +98,7 @@ LilycoveCity_House3_EventScript_WereDoingContest::
 	end
 
 LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
-	.string "Oh, my, my! Are you traveling alone?\n"
+	.string "Oh, my, my! Are you travelling alone?\n"
 	.string "But you're so young! Good for you!\p"
 	.string "I'm sure my kids could learn a thing\n"
 	.string "or two from you!\p"

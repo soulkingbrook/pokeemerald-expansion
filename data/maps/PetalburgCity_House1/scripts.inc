@@ -2,7 +2,7 @@ PetalburgCity_House1_MapScripts::
 	.byte 0
 
 PetalburgCity_House1_EventScript_Man::
-	msgbox PetalburgCity_House1_Text_TravelingIsWonderful, MSGBOX_NPC
+	msgbox PetalburgCity_House1_Text_TravellingIsWonderful, MSGBOX_NPC
 	end
 
 PetalburgCity_House1_EventScript_Hydrapple::
@@ -19,7 +19,7 @@ PetalburgCity_House1_EventScript_Youngster::
 	msgbox PetalburgCity_House1_Text_GiantMonster, MSGBOX_NPC
 	end
 
-PetalburgCity_House1_Text_TravelingIsWonderful:
+PetalburgCity_House1_Text_TravellingIsWonderful:
 	.string "Hahaha!\p"
 	.string "When I was young, I had a wild\n"
 	.string "imagination, too!\l"

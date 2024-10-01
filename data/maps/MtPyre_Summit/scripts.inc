@@ -494,7 +494,7 @@ MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 	.string "of us, but we also got what we wanted.\p"
 	.string "The RED ORB preserved at MT. PYRE…\n"
 	.string "I, ARCHIE, now have it in my possession!\p"
-	.string "Fufufu… Now we can bring our ultimate\n"
+	.string "Bwahaha! Now we can bring our ultimate\n"
 	.string "objective to fruition!\p"
 	.string "Okay, TEAM!\n"
 	.string "We're pulling out!$"

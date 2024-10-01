@@ -817,7 +817,7 @@ Route110_Text_RideBikeAtFullSpeed:
 
 Route110_Text_HairStreamsBehindMe:
 	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
+	.string "coloured hair streams behind me?\p"
 	.string "I grew my hair out just for that.$"
 
 Route110_Text_YouGotBikeFromRydel:
@@ -885,7 +885,7 @@ Route110_Text_ChallengeReactionBad:
 	.string "My word… Your cycling skills border\n"
 	.string "on terrifying.\p"
 	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "practise riding.$"
 
 Route110_Text_ChallengeReactionWorst:
 	.string "…I am aghast…\p"
@@ -941,13 +941,13 @@ Route110_Text_MauvilleCitySign:
 Route110_Text_TrainerTipsPrlzSleep:
 	.string "TRAINER TIPS\p"
 	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
+	.string "paralysing it or causing it to sleep.\p"
 	.string "It is an important technique for\n"
 	.string "POKéMON battles.$"
 
 Route110_Text_TrainerTipsRegisterItems:
 	.string "TRAINER TIPS\p"
-	.string "The items in the BAG can be reorganized\n"
+	.string "The items in the BAG can be reorganised\n"
 	.string "by pressing SELECT.$"
 
 Route110_Text_TrickHouseSign:

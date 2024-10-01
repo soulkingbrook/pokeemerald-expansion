@@ -218,7 +218,7 @@ Route103_Text_IsabelleDefeated:
 	.string "Groan…$"
 
 Route103_Text_IsabellePostBattle:
-	.string "I'm a poor swimmer so I was practicing…\n"
+	.string "I'm a poor swimmer so I was practising…\n"
 	.string "Sorry for almost crashing into you.$"
 
 Route103_Text_RhettIntro:
@@ -878,7 +878,7 @@ Route109_Text_LolaIntro:
 	.string "a giant flower?$"
 
 Route109_Text_LolaDefeated:
-	.string "Mommy!$"
+	.string "Mummy!$"
 
 Route109_Text_LolaPostBattle:
 	.string "If you look at the beach from the sky,\n"
@@ -893,7 +893,7 @@ Route109_Text_LolaRematchIntro:
 	.string "That's why I have my inner tube!$"
 
 Route109_Text_LolaRematchDefeated:
-	.string "Mommy!$"
+	.string "Mummy!$"
 
 Route109_Text_LolaRematchPostBattle:
 	.string "If I have an inner tube, me and my\n"
@@ -1462,7 +1462,7 @@ Route111_Text_BrandenPostBattle:
 	.string "my sandwiches.$"
 
 Route111_Text_TyronIntro:
-	.string "This is my favorite kind of POKéMON!$"
+	.string "This is my favourite kind of POKéMON!$"
 
 Route111_Text_TyronDefeat:
 	.string "Wait!\n"
@@ -1568,7 +1568,7 @@ Route112_Text_LarryDefeat:
 	.string "Waaaah!$"
 
 Route112_Text_LarryPostBattle:
-	.string "I'm not crying because I miss my mommy!\n"
+	.string "I'm not crying because I miss my mummy!\n"
 	.string "Snivel…$"
 
 Route112_Text_CarolIntro:
@@ -1669,7 +1669,7 @@ Route113_Text_LaoIntro:
 	.string "I challenge thee!$"
 
 Route113_Text_LaoDefeat:
-	.string "With honor I admit defeat!$"
+	.string "With honour I admit defeat!$"
 
 Route113_Text_LaoPostBattle:
 	.string "I must refine the art of concealment.\n"
@@ -1684,7 +1684,7 @@ Route113_Text_LaoRematchIntro:
 	.string "I challenge thee!$"
 
 Route113_Text_LaoRematchDefeat:
-	.string "With honor I admit defeat!$"
+	.string "With honour I admit defeat!$"
 
 Route113_Text_LaoPostRematch:
 	.string "My flawless concealment was let down\n"
@@ -2590,7 +2590,7 @@ Route118_Text_RosePostBattle:
 	.string "I'll pass.$"
 
 Route118_Text_RoseRegister:
-	.string "Sniff… That odor--it's a POKéNAV!\n"
+	.string "Sniff… That odour--it's a POKéNAV!\n"
 	.string "We must register each other!$"
 
 Route118_Text_RoseRematchIntro:
@@ -2796,14 +2796,14 @@ Route119_Text_JacksonPostRematch:
 Route119_Text_CatherineIntro:
 	.string "Oh? Look at you.\p"
 	.string "For someone on an adventure,\n"
-	.string "you're traveling awfully light.$"
+	.string "you're travelling awfully light.$"
 
 Route119_Text_CatherineDefeat:
 	.string "Accidents happen when you're not\n"
 	.string "prepared!$"
 
 Route119_Text_CatherinePostBattle:
-	.string "You're traveling light but you have\n"
+	.string "You're travelling light but you have\n"
 	.string "everything you need.\p"
 	.string "You're on top of things mentally and\n"
 	.string "physically, too.$"
@@ -3053,7 +3053,7 @@ Route120_Text_JenniferPostBattle:
 Route120_Text_ChipIntro:
 	.string "Who might you be?\p"
 	.string "Are you perhaps searching for ancient\n"
-	.string "ruins that are rumored to possibly\l"
+	.string "ruins that are rumoured to possibly\l"
 	.string "exist according to legend?$"
 
 Route120_Text_ChipDefeat:
@@ -3136,7 +3136,7 @@ Route120_Text_LeonelDefeat:
 
 Route120_Text_LeonelPostBattle:
 	.string "I think it's awesome you're so strong\n"
-	.string "battling with your favorite POKéMON.$"
+	.string "battling with your favourite POKéMON.$"
 
 Route121_Text_VanessaIntro:
 	.string "Will you play with my delightfully\n"
@@ -3151,7 +3151,7 @@ Route121_Text_VanessaPostBattle:
 	.string "sweeping the MASTER CLASS.$"
 
 Route121_Text_WalterIntro:
-	.string "With my POKéMON, I have traveled\n"
+	.string "With my POKéMON, I have travelled\n"
 	.string "to the world's four corners.\p"
 	.string "You might say I have some confidence\n"
 	.string "in my abilities.$"
@@ -3168,7 +3168,7 @@ Route121_Text_WalterRegister:
 	.string "Allow me to register you as a memento.$"
 
 Route121_Text_WalterRematchIntro:
-	.string "With my POKéMON, I have traveled\n"
+	.string "With my POKéMON, I have travelled\n"
 	.string "to the world's four corners.\p"
 	.string "You might say I have some confidence\n"
 	.string "in my abilities.$"
@@ -3323,7 +3323,7 @@ Route121_Text_PatDefeat:
 
 Route121_Text_PatPostBattle:
 	.string "I raise every POKéMON with the same\n"
-	.string "love and care--I don't pick favorites.$"
+	.string "love and care--I don't pick favourites.$"
 
 Route121_Text_MarcelIntro:
 	.string "My POKéMON have never tasted defeat!\n"
@@ -3342,11 +3342,11 @@ Route123_Text_WendyIntro:
 	.string "I'll be the test!$"
 
 Route123_Text_WendyDefeat:
-	.string "You passed with flying colors!$"
+	.string "You passed with flying colours!$"
 
 Route123_Text_WendyPostBattle:
 	.string "To best even me…\n"
-	.string "Your strength is marvelous!$"
+	.string "Your strength is marvellous!$"
 
 Route123_Text_BraxtonIntro:
 	.string "You seem to have a big collection\n"
@@ -3778,7 +3778,7 @@ Route124_Text_IsabellaDefeat:
 	.string "I am not crying!$"
 
 Route124_Text_IsabellaPostBattle:
-	.string "You can find pretty colored shards\n"
+	.string "You can find pretty coloured shards\n"
 	.string "of things around here.$"
 
 Route125_Text_NolenIntro:
@@ -4005,7 +4005,7 @@ Route126_Text_LeonardoDefeat:
 	.string "a thing for me.$"
 
 Route126_Text_LeonardoPostBattle:
-	.string "If you practice at something,\n"
+	.string "If you practise at something,\n"
 	.string "you will get better at it.\p"
 	.string "You're young--don't be afraid to\n"
 	.string "try all sorts of things!$"
@@ -4104,7 +4104,7 @@ Route127_Text_AidanPostBattle:
 	.string "There're lots of diving spots in\n"
 	.string "the sea around here.\p"
 	.string "You can spot them easily from the sky\n"
-	.string "because of their darker color.$"
+	.string "because of their darker colour.$"
 
 Route127_Text_KojiIntro:
 	.string "Run in your bare feet.\n"
@@ -4177,11 +4177,11 @@ Route128_Text_IsaiahPostRematch:
 Route128_Text_KatelynIntro:
 	.string "You have to swim, cycle, and then run\n"
 	.string "a marathon in a triathlon.\p"
-	.string "It's a grueling race that consists\n"
+	.string "It's a gruelling race that consists\n"
 	.string "of three events.$"
 
 Route128_Text_KatelynDefeat:
-	.string "A POKéMON battle is grueling, too…$"
+	.string "A POKéMON battle is gruelling, too…$"
 
 Route128_Text_KatelynPostBattle:
 	.string "I have to ride a BIKE next, but…\n"
@@ -4194,7 +4194,7 @@ Route128_Text_KatelynRegister:
 Route128_Text_KatelynRematchIntro:
 	.string "A triathlon is long. But I guess the\n"
 	.string "road to become the POKéMON CHAMPION\l"
-	.string "is also a long and grueling one.$"
+	.string "is also a long and gruelling one.$"
 
 Route128_Text_KatelynRematchDefeat:
 	.string "A POKéMON battle really is harsh\n"

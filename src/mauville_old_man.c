@@ -62,7 +62,7 @@ static const u8 *const sGiddyAdjectives[] = {
 // a Yes/No prompt afterwards regardless.
 static const u8 *const sGiddyQuestions[GIDDY_MAX_QUESTIONS] = {
     GiddyText_ISoWantToGoOnAVacation,
-    GiddyText_IBoughtCrayonsWith120Colors,
+    GiddyText_IBoughtCrayonsWith120Colours,
     GiddyText_WouldntItBeNiceIfWeCouldFloat,
     GiddyText_WhenYouWriteOnASandyBeach,
     GiddyText_WhatsTheBottomOfTheSeaLike,

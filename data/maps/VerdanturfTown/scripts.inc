@@ -123,5 +123,5 @@ VerdanturfTown_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL\n"
 	.string "“Linking RUSTBORO and VERDANTURF\p"
 	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "cancelled.”$"
 

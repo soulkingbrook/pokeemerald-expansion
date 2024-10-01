@@ -373,7 +373,7 @@ const struct Item gItemsInfo[] =
         .name = _("LUXURY BALL"),
         .price = (I_PRICE >= GEN_8) ? 3000 : 1000,
         .description = COMPOUND_STRING(
-            "A cozy BALL that\n"
+            "A cosy BALL that\n"
             "makes POKéMON\n"
             "more friendly."),
         .pocket = POCKET_POKE_BALLS,

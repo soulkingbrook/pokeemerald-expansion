@@ -265,7 +265,7 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_LassOnlyNonFan::
 	end
 
 LilycoveCity_PokemonTrainerFanClub_EventScript_LassPlayerNotChampion::
-	msgbox LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrook, MSGBOX_DEFAULT
+	msgbox LilycoveCity_PokemonTrainerFanClub_Text_MyFavouriteTrainerIsBrook, MSGBOX_DEFAULT
 	release
 	end
 
@@ -440,7 +440,7 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_ExpertF::
 	goto_if_eq VAR_RESULT, TRUE, LilycoveCity_PokemonTrainerFanClub_EventScript_ExpertFPlayersFan
 	specialvar VAR_RESULT, GetNumFansOfPlayerInTrainerFanClub
 	goto_if_eq VAR_RESULT, (NUM_TRAINER_FAN_CLUB_MEMBERS - 1), LilycoveCity_PokemonTrainerFanClub_EventScript_ExpertFOnlyNonFan
-	msgbox LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential, MSGBOX_DEFAULT
+	msgbox LilycoveCity_PokemonTrainerFanClub_Text_HaventRealisedPotential, MSGBOX_DEFAULT
 	release
 	end
 
@@ -452,7 +452,7 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_ExpertFPlayersFan::
 	end
 
 LilycoveCity_PokemonTrainerFanClub_EventScript_ExpertFOnlyFan::
-	msgbox LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth, MSGBOX_DEFAULT
+	msgbox LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecogniseYourTrueWorth, MSGBOX_DEFAULT
 	release
 	end
 
@@ -643,8 +643,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrook:
 	.string "Even if I'm the only one, I'm going\n"
 	.string "to keep cheering for BROOK!$"
 
-LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrook:
-	.string "Whatever anyone says, my favorite\n"
+LilycoveCity_PokemonTrainerFanClub_Text_MyFavouriteTrainerIsBrook:
+	.string "Whatever anyone says, my favourite\n"
 	.string "TRAINER is BONELY ISLAND's GYM LEADER\l"
 	.string "BROOK!$"
 
@@ -706,10 +706,10 @@ LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe:
 	.string "{STR_VAR_1} really is cool, don't\n"
 	.string "you think so?\p"
 	.string "Even if it's just me, I'm going to keep\n"
-	.string "cheering my favorite TRAINER.$"
+	.string "cheering my favourite TRAINER.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
-	.string "My favorite TRAINER is…\p"
+	.string "My favourite TRAINER is…\p"
 	.string "Cool…\p"
 	.string "Strong…\p"
 	.string "And really nice…\p"
@@ -796,16 +796,16 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouImpressive:
 	.string "You…\p"
 	.string "Impressive!$"
 
-LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth:
+LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecogniseYourTrueWorth:
 	.string "Your true worth, it is fine if only\n"
-	.string "I recognized it.\p"
+	.string "I recognised it.\p"
 	.string "The others I doubt will understand\n"
 	.string "the hidden power that beats within.$"
 
-LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential:
+LilycoveCity_PokemonTrainerFanClub_Text_HaventRealisedPotential:
 	.string "Yes, I see strength in your eyes.\p"
 	.string "But!\p"
-	.string "You still haven't realized your\n"
+	.string "You still haven't realised your\n"
 	.string "potential.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourePowerfulButNotTrueStrength:

@@ -61,7 +61,7 @@ FallarborTown_ContestHall_Text_CantWinEverywhere:
 	.string "I can't beat GYM LEADERS…\p"
 	.string "I can't win any CONTESTS…\p"
 	.string "I've been here, there, and everywhere,\n"
-	.string "and it's all for naught…$"
+	.string "and it's all for nought…$"
 
 @ Unused
 FallarborTown_ContestHall_Text_SuperRankStage:

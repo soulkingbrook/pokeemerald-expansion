@@ -444,7 +444,7 @@ MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
 	.string "fuel?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
+	.string "MAXIE: Fuhaha… Since you're so\n"
 	.string "curious, you deserve an explanation.\p"
 	.string "We're going to jettison the entire\n"
 	.string "load into MT. CHIMNEY!\p"

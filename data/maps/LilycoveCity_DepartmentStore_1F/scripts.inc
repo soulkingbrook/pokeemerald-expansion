@@ -119,7 +119,7 @@ LilycoveCity_DepartmentStore_1F_EventScript_PokefanF::
 	end
 
 LilycoveCity_DepartmentStore_1F_EventScript_LittleGirl::
-	msgbox LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture, MSGBOX_NPC
+	msgbox LilycoveCity_DepartmentStore_1F_Text_MumBuyingMeFurniture, MSGBOX_NPC
 	end
 
 LilycoveCity_DepartmentStore_1F_EventScript_PokefanM::
@@ -148,8 +148,8 @@ LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
 	.string "STORE, I always end up buying all sorts\l"
 	.string "of things because it's so fun.$"
 
-LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "Today, my mom is going to buy me some\n"
+LilycoveCity_DepartmentStore_1F_Text_MumBuyingMeFurniture:
+	.string "Today, my mum is going to buy me some\n"
 	.string "nice furniture.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:

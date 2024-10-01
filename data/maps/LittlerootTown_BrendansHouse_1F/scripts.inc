@@ -429,7 +429,7 @@ PlayersHouse_1F_Text_PortsInSlateportLilycove:
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
 	.string "I'd better get back to PETALBURG GYM.\p"
-	.string "MOM, thanks for looking after the house\n"
+	.string "MUM, thanks for looking after the house\n"
 	.string "while I'm away.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
@@ -445,7 +445,7 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 	.string "We bring you this emergency\n"
 	.string "news flash!\p"
 	.string "In various HOENN locales, there have\n"
-	.string "been reports of a BZZT…colored\l"
+	.string "been reports of a BZZT…coloured\l"
 	.string "POKéMON in flight.\p"
 	.string "The identity of this POKéMON is\n"
 	.string "currently unknown.\p"
@@ -454,7 +454,7 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
 	.string "MUM: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
+	.string "What colour did the announcer say\n"
 	.string "that POKéMON was?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:

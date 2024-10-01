@@ -1079,7 +1079,7 @@ LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "Today, victory is mine!$"
 
 LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily:
-	.string "I made {POKEBLOCK}S with Mom, Dad, and\n"
+	.string "I made {POKEBLOCK}S with Mum, Dad, and\n"
 	.string "Big Sister. They turned out great!\p"
 	.string "I bet you can make smoother, better\n"
 	.string "{POKEBLOCK}S if you have more people.$"

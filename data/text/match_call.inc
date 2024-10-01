@@ -673,7 +673,7 @@ MatchCall_PersonalizedText4::
 	.string "Hello! Thirty years of exploration,\n"
 	.string "{STR_VAR_1} at your service!\p"
 	.string "It seems that you're energetically\n"
-	.string "traveling here and there.\p"
+	.string "travelling here and there.\p"
 	.string "Have you discovered any new ruins?\n"
 	.string "Please tell if you have!\p"
 	.string "Now, if you'll excuse me,\n"
@@ -692,7 +692,7 @@ MatchCall_PersonalizedText6::
 	.string "Oh, hi, it's {STR_VAR_1}.\l"
 	.string "I love eating on the beach.\p"
 	.string "My POKéMON and I have been doing\n"
-	.string "great. We're fully fueled!\l"
+	.string "great. We're fully fuelled!\l"
 	.string "I'm going for a swim. Bye!$"
 
 MatchCall_PersonalizedText7::
@@ -892,7 +892,7 @@ MatchCall_PersonalizedText23::
 MatchCall_PersonalizedText24::
 	.string "Hello, this is {STR_VAR_1}.\n"
 	.string "You sound well, {PLAYER}{KUN}.\p"
-	.string "I've traveled around the world,\n"
+	.string "I've travelled around the world,\n"
 	.string "but I must say I've taken a great\l"
 	.string "shine to this region.\p"
 	.string "I plan to stay here a while.\n"
@@ -1113,7 +1113,7 @@ MatchCall_PersonalizedText40::
 	.string "I like swimming best.\p"
 	.string "But if I stay in the sea too long,\n"
 	.string "won't I get all prune-like?\p"
-	.string "Ooh, triathlon is such a grueling\n"
+	.string "Ooh, triathlon is such a gruelling\n"
 	.string "test of human endurance! Bye!$"
 
 MatchCall_PersonalizedText41::
@@ -1231,7 +1231,7 @@ MatchCall_PersonalizedText53::
 	.string "{STR_VAR_1} here.\p"
 	.string "If you cooperate with POKéMON,\n"
 	.string "one can be comfortable in the wild.\p"
-	.string "Everyone should realize that and\n"
+	.string "Everyone should realise that and\n"
 	.string "cooperate with POKéMON more.\p"
 	.string "That would be ideal.\n"
 	.string "I really think so.\p"
@@ -1412,7 +1412,7 @@ MatchCall_BattleFrontierStreakText3::
 MatchCall_BattleFrontierStreakText4::
 	.string "Hey, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} here. What's up?\p"
-	.string "There's a rumor going around that\n"
+	.string "There's a rumour going around that\n"
 	.string "you strung together {STR_VAR_3} straight\l"
 	.string "wins at the {STR_VAR_2}.\p"
 	.string "I'd better step it up, too.\n"
@@ -1538,7 +1538,7 @@ MatchCall_BattleFrontierRecordStreakText3::
 MatchCall_BattleFrontierRecordStreakText4::
 	.string "Hey, {PLAYER}{KUN}.\n"
 	.string "{STR_VAR_1} here. What's up?\p"
-	.string "There's a rumor going around that\n"
+	.string "There's a rumour going around that\n"
 	.string "you strung together {STR_VAR_3} straight\l"
 	.string "wins at the {STR_VAR_2}.\p"
 	.string "I'd better step it up, too.\n"
@@ -2438,14 +2438,14 @@ MatchCall_Text_May13::
 	.string "MAY: Hi, {PLAYER}{KUN}!\p"
 	.string "How's it going?\n"
 	.string "Are you filling your POKéDEX?\p"
-	.string "I heard a rumor that there are\n"
+	.string "I heard a rumour that there are\n"
 	.string "super-ancient POKéMON out there.\l"
 	.string "And there are three of them!\p"
 	.string "I would love to see even one…$"
 
 MatchCall_Text_May14::
 	.string "MAY: {PLAYER}{KUN}!\n"
-	.string "I heard the rumors!\p"
+	.string "I heard the rumours!\p"
 	.string "You beat the SOOTOPOLIS GYM\n"
 	.string "LEADER?\p"
 	.string "That means you don't have far\n"
@@ -2566,14 +2566,14 @@ MatchCall_Text_Brendan13::
 	.string "BRENDAN: Hey there, {PLAYER}!\p"
 	.string "How's it going? Filling up your\n"
 	.string "POKéDEX successfully?\p"
-	.string "I heard a rumor that there are\n"
+	.string "I heard a rumour that there are\n"
 	.string "super-ancient POKéMON out there.\l"
 	.string "And not just one--three!\p"
 	.string "I'd love to catch even one…$"
 
 MatchCall_Text_Brendan14::
 	.string "BRENDAN: {PLAYER}!\n"
-	.string "I heard the rumors!\p"
+	.string "I heard the rumours!\p"
 	.string "You beat the SOOTOPOLIS GYM\n"
 	.string "LEADER? Awesome!\p"
 	.string "You're getting awful close now!$"
@@ -2806,7 +2806,7 @@ MatchCall_Text_Steven4::
 	.string "STEVEN: Hello?\n"
 	.string "{PLAYER}{KUN}?\p"
 	.string "I'm involved in a spot of trouble\n"
-	.string "at the SPACE CENTER.\p"
+	.string "at the SPACE CENTRE.\p"
 	.string "I'm sorry, but I can't talk now.\n"
 	.string "Bye!$"
 
@@ -2949,6 +2949,6 @@ MatchCall_Text_MrStone11::
 	.string "MR. STONE: … … … … … …\n"
 	.string "Is this maybe {PLAYER}{KUN}?\p"
 	.string "Your voice is so full of confidence,\n"
-	.string "I didn't recognize you right off!\p"
+	.string "I didn't recognise you right off!\p"
 	.string "Hm! You must come visit us at DEVON\n"
 	.string "sometime!$"

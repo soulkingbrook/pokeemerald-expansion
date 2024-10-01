@@ -541,7 +541,7 @@ MtChimney_Text_MeteoriteWillActivateVolcano:
 	.string "activity will instantly intensify…\p"
 	.string "Its energy will grow deep inside\n"
 	.string "the crater and…\l"
-	.string "Fufufu…$"
+	.string "Fuhahaha…$"
 
 MtChimney_Text_MaxieIntro:
 	.string "MAXIE: Hm?\n"
@@ -573,16 +573,17 @@ MtChimney_Text_MaxieIntro:
 
 MtChimney_Text_MaxieDefeat:
 	.string "What?!\p"
-	.string "I, MAXIE, was caught off guard?!$"
+	.string "I, the great MAXIE, was caught off\n"
+	.string "guard?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
 	.string "MAXIE: But, enough.\n"
 	.string "I will back off this time.\p"
 	.string "But don't think that this is the last\n"
 	.string "you've seen of TEAM MAGMA.\p"
-	.string "Fufufu…\p"
+	.string "Fuhaha…\p"
 	.string "Even without the METEORITE, if we\n"
-	.string "obtain that ORB… Fufufu…$"
+	.string "obtain that ORB… Fuhaha…$"
 
 MtChimney_Text_TabithaIntro:
 	.string "Hehehe!\p"

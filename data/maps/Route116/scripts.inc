@@ -372,7 +372,7 @@ Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
 	.string "that react badly to loud noises.\l"
 	.string "They could cause an uproar.\p"
 	.string "That's why we stopped using heavy\n"
-	.string "equipment for tunneling…\p"
+	.string "equipment for tunnelling…\p"
 	.string "I'm worried that the goon will do\n"
 	.string "something stupid and startle the\l"
 	.string "POKéMON into an uproar.$"
@@ -450,7 +450,7 @@ Route116_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL\n"
 	.string "“Linking RUSTBORO and VERDANTURF\p"
 	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "cancelled.”$"
 
 Route116_Text_TunnelersRestHouse:
 	.string "TUNNELER'S REST HOUSE$"

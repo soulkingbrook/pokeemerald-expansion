@@ -981,7 +981,7 @@ SlateportCity_Text_EffortRibbonLooksGoodOnIt:
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
 	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
+	.string "dozens of kilometres away.\p"
 	.string "I wonder if it doesn't startle POKéMON\n"
 	.string "in the sea.$"
 
@@ -1203,13 +1203,13 @@ SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "that's said to have been long extinct.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Fufufu…\n"
+	.string "Bwahaha…\n"
 	.string "CAPT. STERN, I presume.\p"
 	.string "We of TEAM AQUA will assume\n"
 	.string "control of your submarine!\p"
 	.string "Your objections are meaningless!\n"
 	.string "We expect your total cooperation!\p"
-	.string "Fufufu…\n"
+	.string "Bwahaha…\n"
 	.string "Just watch and learn what TEAM\l"
 	.string "AQUA has planned!$"
 
@@ -1220,7 +1220,7 @@ SlateportCity_Text_SternWhatWasAllThat:
 	.string "Where did it come from?$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the HARBOR!\p"
+	.string "It's from the HARBOUR!\p"
 	.string "The submarine!\n"
 	.string "They're trying to take it!$"
 
@@ -1247,7 +1247,7 @@ SlateportCity_Text_SternsShipyardFerryComplete:
 	.string "STERN'S SHIPYARD\p"
 	.string "“Boarding of the SLATEPORT-LILYCOVE\n"
 	.string "ferry S.S. TIDAL is handled at the\l"
-	.string "HARBOR.”$"
+	.string "HARBOUR.”$"
 
 SlateportCity_Text_PokemonFanClubSign:
 	.string "POKéMON FAN CLUB\n"
@@ -1268,14 +1268,14 @@ SlateportCity_Text_MarketSign:
 	.string "“Unique items found nowhere else!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "SLATEPORT HARBOR\p"
+	.string "SLATEPORT HARBOUR\p"
 	.string "“The ferry S.S. TIDAL is under\n"
 	.string "construction in the SHIPYARD.\p"
 	.string "“Service is scheduled to begin\n"
 	.string "shortly.”$"
 
 SlateportCity_Text_HarborSign:
-	.string "SLATEPORT HARBOR\p"
+	.string "SLATEPORT HARBOUR\p"
 	.string "“Enjoy a delightful cruise on\n"
 	.string "the ferry S.S. TIDAL.”$"
 
@@ -1300,7 +1300,7 @@ SlateportCity_Text_ExplainBerries:
 
 SlateportCity_Text_ExplainBerryPowder:
 	.string "I recently had machines installed at\n"
-	.string "POKéMON CENTERS for crushing BERRIES.\p"
+	.string "POKéMON CENTRES for crushing BERRIES.\p"
 	.string "The BERRY CRUSH machines are at\n"
 	.string "the DIRECT CORNER upstairs.\p"
 	.string "Did you know?\p"

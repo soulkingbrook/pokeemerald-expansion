@@ -421,7 +421,7 @@ extern const u8 GiddyText_SoExciting[];
 extern const u8 GiddyText_SoAmusing[];
 extern const u8 GiddyText_SoMagical[];
 extern const u8 GiddyText_ISoWantToGoOnAVacation[];
-extern const u8 GiddyText_IBoughtCrayonsWith120Colors[];
+extern const u8 GiddyText_IBoughtCrayonsWith120Colours[];
 extern const u8 GiddyText_WouldntItBeNiceIfWeCouldFloat[];
 extern const u8 GiddyText_WhenYouWriteOnASandyBeach[];
 extern const u8 GiddyText_WhatsTheBottomOfTheSeaLike[];

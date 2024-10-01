@@ -25,13 +25,13 @@ Route111_Text_WateredPlantsEveryDayTakeBerry:
 	.string "Here you go!\n"
 	.string "You can have it!$"
 
-Route111_Text_GoingToTryToMakeDifferentColorBerries:
+Route111_Text_GoingToTryToMakeDifferentColourBerries:
 	.string "I'm going to try really hard and make\n"
-	.string "BERRIES in different colors.\p"
+	.string "BERRIES in different colours.\p"
 	.string "I hope you try hard, too!$"
 
-Route111_Text_WhatColorBerriesToLookForToday:
-	.string "I wonder what color BERRIES I'll look\n"
+Route111_Text_WhatColourBerriesToLookForToday:
+	.string "I wonder what colour BERRIES I'll look\n"
 	.string "for today?$"
 
 Route114_Text_LoveUsingBerryCrushShareBerry:
@@ -204,7 +204,7 @@ SootopolisCity_Text_NameIsKiriHaveOneOfThese:
 	.string "… … …  … … …  … … …\n"
 	.string "Okay. That's nice!\p"
 	.string "My name is KIRI.\p"
-	.string "My mommy and daddy named me that so\n"
+	.string "My mummy and daddy named me that so\n"
 	.string "I would grow healthy and warmhearted.\l"
 	.string "That's what they wished.\p"
 	.string "You can have one of these.$"

@@ -163,12 +163,12 @@ Route111_EventScript_Girl::
 	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
 	setflag FLAG_DAILY_ROUTE_111_RECEIVED_BERRY
 	special GetPlayerBigGuyGirlString
-	msgbox Route111_Text_GoingToTryToMakeDifferentColorBerries, MSGBOX_DEFAULT
+	msgbox Route111_Text_GoingToTryToMakeDifferentColourBerries, MSGBOX_DEFAULT
 	release
 	end
 
 Route111_EventScript_ReceivedBerry::
-	msgbox Route111_Text_WhatColorBerriesToLookForToday, MSGBOX_DEFAULT
+	msgbox Route111_Text_WhatColourBerriesToLookForToday, MSGBOX_DEFAULT
 	release
 	end
 
@@ -609,7 +609,7 @@ Route111_Text_VictoriaPostBattle:
 	.string "This one's really strong!$"
 
 Route111_Text_ViviIntro:
-	.string "You're stronger than Mommy? Wow!\p"
+	.string "You're stronger than Mummy? Wow!\p"
 	.string "But I'm strong, too!\n"
 	.string "Really! Honestly!$"
 
