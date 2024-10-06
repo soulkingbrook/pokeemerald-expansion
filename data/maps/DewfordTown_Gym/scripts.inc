@@ -415,8 +415,8 @@ DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "That TM08 contains BULK UP.\p"
 	.string "It's a move which raises both ATTACK\n"
 	.string "and DEFENCE during combat.\p"
-	.string "… … … … … …\p"
-	.string "…You want to keep in touch? Of course!$"
+	.string "…You want to keep in touch? Of course!\p"
+	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrook:
 	.string "Registered GYM LEADER BROOK\n"

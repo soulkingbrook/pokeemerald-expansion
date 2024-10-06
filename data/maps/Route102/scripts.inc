@@ -83,7 +83,19 @@ Route102_Text_WatchMeCatchPokemon:
 
 Route102_Text_WallyIDidIt:
 	.string "WALLY: I did it… It's my…\n"
-	.string "My POKéMON!$"
+	.string "My first POKéMON!$"
+
+Route102_Text_WallyIfItSparkles:
+	.string "Um… Is it a good thing if it sparkles?$"
+
+Route102_Text_WallyImLucky:
+	.string "Wow, my luck just keeps getting better!\n"
+	.string "At this rate maybe I'll be cured of\l"
+	.string "whatever's wrong with me…$"
+
+Route102_Text_WallyIllKeepIt:
+	.string "Oh… In that case, I'll keep it!\n"
+	.string "It's different, like me.$"
 
 Route102_Text_LetsGoBack:
 	.string "{PLAYER}, thank you!\n"

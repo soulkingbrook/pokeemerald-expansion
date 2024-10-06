@@ -48,6 +48,28 @@ PetalburgCity_EventScript_WallyTutorial::
 	msgbox Route102_Text_WallyIDidIt, MSGBOX_DEFAULT
 	applymovement LOCALID_WALLY, Common_Movement_WalkInPlaceFasterLeft, MAP_PETALBURG_CITY
 	waitmovement LOCALID_WALLY, MAP_PETALBURG_CITY
+	msgbox Route102_Text_WallyIfItSparkles, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, YES, Route102_EventScript_SparklesGood
+	goto_if_eq VAR_RESULT, NO, Route102_EventScript_SparklesBad
+	end
+
+Route102_EventScript_SparklesGood::
+	msgbox Route102_Text_WallyImLucky, MSGBOX_DEFAULT
+	msgbox Route102_Text_LetsGoBack, MSGBOX_DEFAULT
+	closemessage
+	clearflag FLAG_HIDE_MAP_NAME_POPUP
+	setvar VAR_PETALBURG_CITY_STATE, 3
+	fadedefaultbgm
+	clearflag FLAG_DONT_TRANSITION_MUSIC
+	special LoadPlayerParty
+	setvar VAR_PETALBURG_GYM_STATE, 1
+	warp MAP_PETALBURG_CITY_GYM, 4, 108
+	waitstate
+	releaseall
+	end
+
+Route102_EventScript_SparklesBad::
+	msgbox Route102_Text_WallyIllKeepIt, MSGBOX_DEFAULT
 	msgbox Route102_Text_LetsGoBack, MSGBOX_DEFAULT
 	closemessage
 	clearflag FLAG_HIDE_MAP_NAME_POPUP
