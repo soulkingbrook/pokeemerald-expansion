@@ -6167,4 +6167,12 @@ static const struct SpriteFrameImage sPicTable_Pecharunt[] = {
 };
 #endif //P_FAMILY_PECHARUNT
 
+//Fakemon
+
+//  TO DO: CAVIAMP
+
+static const struct SpriteFrameImage sPicTable_Chatling[] = {
+    overworld_ascending_frames(gObjectEventPic_Chatling, 4, 4),
+};
+
 #endif //OW_POKEMON_OBJECT_EVENTS

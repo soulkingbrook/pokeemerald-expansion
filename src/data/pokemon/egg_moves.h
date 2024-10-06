@@ -3736,6 +3736,11 @@ static const u16 sChatotEggMoveLearnset[] = {
     MOVE_DEFOG,
     MOVE_AIR_CUTTER,
     MOVE_BOOMBURST,
+    MOVE_COPYCAT,
+    MOVE_PERISH_SONG,
+    MOVE_PLUCK,
+    MOVE_WHIRLWIND,
+    MOVE_YAWN,
     MOVE_UNAVAILABLE,
 };
 #endif //P_FAMILY_CHATOT
@@ -6313,6 +6318,25 @@ static const u16 sCaviampEggMoveLearnset[] = {
     MOVE_ROCK_CLIMB,
     MOVE_SUPER_FANG,
     MOVE_WILD_CHARGE,
+    MOVE_YAWN,
+    MOVE_UNAVAILABLE,
+};
+
+static const u16 sChatlingEggMoveLearnset[] = {
+    MOVE_ENCORE,
+    MOVE_NIGHT_SHADE,
+    MOVE_AGILITY,
+    MOVE_NASTY_PLOT,
+    MOVE_SUPERSONIC,
+    MOVE_STEEL_WING,
+    MOVE_SLEEP_TALK,
+    MOVE_DEFOG,
+    MOVE_AIR_CUTTER,
+    MOVE_BOOMBURST,
+    MOVE_COPYCAT,
+    MOVE_PERISH_SONG,
+    MOVE_PLUCK,
+    MOVE_WHIRLWIND,
     MOVE_YAWN,
     MOVE_UNAVAILABLE,
 };

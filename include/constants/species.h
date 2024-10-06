@@ -1631,8 +1631,9 @@
 
 // Fakemon
 #define SPECIES_CAVIAMP                                 1524
+#define SPECIES_CHATLING                                1525
 
-#define SPECIES_EGG (SPECIES_CAVIAMP + 1)
+#define SPECIES_EGG (SPECIES_CHATLING + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 

@@ -22038,6 +22038,9 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
 #endif //OW_POKEMON_OBJECT_EVENTS
 #endif //P_FAMILY_PECHARUNT
 
+// Fakemon
+
+//  Caviamp
     const u32 gMonFrontPic_Caviamp[] = INCBIN_U32("graphics/pokemon/caviamp/anim_front.4bpp.lz");
     const u32 gMonBackPic_Caviamp[] = INCBIN_U32("graphics/pokemon/caviamp/back.4bpp.lz");
     const u32 gMonPalette_Caviamp[] = INCBIN_U32("graphics/pokemon/caviamp/normal.gbapal.lz");
@@ -22045,6 +22048,18 @@ const u32 gObjectEventPic_Substitute[] = INCBIN_COMP("graphics/pokemon/question_
     const u8 gMonIcon_Caviamp[] = INCBIN_U8("graphics/pokemon/caviamp/icon.4bpp");
     const u8 gMonFootprint_Caviamp[] = INCBIN_U8("graphics/pokemon/caviamp/footprint.1bpp");
 
+//  Chatling
+    const u32 gMonFrontPic_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/anim_front.4bpp.lz");
+    const u32 gMonBackPic_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/back.4bpp.lz");
+    const u32 gMonPalette_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/normal.gbapal.lz");
+    const u32 gMonShinyPalette_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/shiny.gbapal.lz");
+    const u8 gMonIcon_Chatling[] = INCBIN_U8("graphics/pokemon/chatling/icon.4bpp");
+    const u8 gMonFootprint_Chatling[] = INCBIN_U8("graphics/pokemon/chatling/footprint.1bpp");
+    const u32 gObjectEventPic_Chatling[] = INCBIN_COMP("graphics/pokemon/chatling/overworld.4bpp");
+    const u32 gOverworldPalette_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/overworld_normal.gbapal.lz");
+    const u32 gShinyOverworldPalette_Chatling[] = INCBIN_U32("graphics/pokemon/chatling/overworld_shiny.gbapal.lz");
+
+//  Egg
     const u32 gMonFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/anim_front.4bpp.lz");
     const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
     const u8 gMonIcon_Egg[] = INCBIN_U8("graphics/pokemon/egg/icon.4bpp");

@@ -35839,6 +35839,8 @@ static const u16 sPecharuntTeachableLearnset[] = {
 };
 #endif //P_FAMILY_PECHARUNT
 
+//Fakemon
+
 static const u16 sCaviampTeachableLearnset[] = {
     MOVE_AERIAL_ACE,
     MOVE_ATTRACT,
@@ -35891,5 +35893,9 @@ static const u16 sCaviampTeachableLearnset[] = {
     MOVE_SWORDS_DANCE,
     MOVE_THUNDER_PUNCH,
     MOVE_THUNDER_WAVE,
+    MOVE_UNAVAILABLE,
+};
+
+static const u16 sChatlingTeachableLearnset[] = {
     MOVE_UNAVAILABLE,
 };

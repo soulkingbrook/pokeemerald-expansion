@@ -4716,14 +4716,14 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .abilities = { ABILITY_INNER_FOCUS, ABILITY_KEEN_EYE, ABILITY_PICKPOCKET },
         .bodyColor = BODY_COLOR_BLACK,
         .noFlip = TRUE,
-        .speciesName = _("Sneasel"),
+        .speciesName = _("SNEASEL"),
         .cryId = CRY_SNEASEL,
         .natDexNum = NATIONAL_DEX_SNEASEL,
-        .categoryName = _("Sharp Claw"),
+        .categoryName = _("SHARP CLAW"),
         .height = 9,
         .weight = 280,
         .description = COMPOUND_STRING(
-            "A Sneasel scales trees by punching its\n"
+            "A SNEASEL scales trees by punching its\n"
             "hooked claws into the bark. It seeks out\n"
             "unguarded nests and steals eggs for food\n"
             "while the parents are away."),
@@ -4787,10 +4787,10 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_PRESSURE, ABILITY_NONE, ABILITY_PICKPOCKET },
         .bodyColor = BODY_COLOR_BLACK,
-        .speciesName = _("Weavile"),
+        .speciesName = _("WEAVILE"),
         .cryId = CRY_WEAVILE,
         .natDexNum = NATIONAL_DEX_WEAVILE,
-        .categoryName = _("Sharp Claw"),
+        .categoryName = _("SHARP CLAW"),
         .height = 11,
         .weight = 340,
         .description = COMPOUND_STRING(
@@ -4855,10 +4855,10 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .abilities = { ABILITY_INNER_FOCUS, ABILITY_KEEN_EYE, ABILITY_PICKPOCKET },
         .bodyColor = BODY_COLOR_GRAY,
         .noFlip = TRUE,
-        .speciesName = _("Sneasel"),
+        .speciesName = _("SNEASEL"),
         .cryId = CRY_SNEASEL,
         .natDexNum = NATIONAL_DEX_SNEASEL,
-        .categoryName = _("Sharp Claw"),
+        .categoryName = _("SHARP CLAW"),
         .height = 9,
         .weight = 270,
         .description = COMPOUND_STRING(
@@ -4923,10 +4923,10 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FIELD),
         .abilities = { ABILITY_PRESSURE, ABILITY_UNBURDEN, ABILITY_POISON_TOUCH },
         .bodyColor = BODY_COLOR_BLUE,
-        .speciesName = _("Sneasler"),
+        .speciesName = _("SNEASLER"),
         .cryId = CRY_SNEASLER,
         .natDexNum = NATIONAL_DEX_SNEASLER,
-        .categoryName = _("Free Climb"),
+        .categoryName = _("FREE CLIMB"),
         .height = 13,
         .weight = 430,
         .description = COMPOUND_STRING(

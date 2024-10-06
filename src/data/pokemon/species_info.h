@@ -221,6 +221,68 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .eggMoveLearnset = sCaviampEggMoveLearnset,
     },
 
+    [SPECIES_CHATLING] =
+    {
+        .baseHP        = 55,
+        .baseAttack    = 50,
+        .baseDefense   = 35,
+        .baseSpeed     = 65,
+        .baseSpAttack  = 70,
+        .baseSpDefense = 35,
+        .types = MON_TYPES(TYPE_NORMAL, TYPE_FLYING),
+        .catchRate = 30,
+        .expYield = 62,
+        .evYield_Attack = 1,
+        .genderRatio = PERCENT_FEMALE(50),
+        .eggCycles = 20,
+        .friendship = 35,
+        .growthRate = GROWTH_MEDIUM_SLOW,
+        .eggGroups = MON_EGG_GROUPS(EGG_GROUP_FLYING),
+        .abilities = { ABILITY_KEEN_EYE, ABILITY_TANGLED_FEET, ABILITY_BIG_PECKS },
+        .bodyColor = BODY_COLOR_BLACK,
+        .speciesName = _("CHATLING"),
+        .cryId = CRY_CHATLING,
+        .natDexNum = NATIONAL_DEX_CHATLING,
+        .categoryName = _("BABY BIRD"),
+        .height = 3,
+        .weight = 15,
+        .description = COMPOUND_STRING(
+            "CHATLING uses its cute appearance to get\n"
+            "what it wants. When not being pampered, it\n"
+            "will let out a horrid screech that's\n"
+            "comparable to nails on a chalkboard."),
+        .pokemonScale = 507,
+        .pokemonOffset = 23,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+        .frontPic = gMonFrontPic_Chatling,
+        .frontPicSize = MON_COORDS_SIZE(64, 64),
+        .frontPicYOffset = 10,
+        .frontAnimFrames = sAnims_Chatling,
+        .frontAnimId = ANIM_V_JUMPS_SMALL,
+        .backPic = gMonBackPic_Chatling,
+        .backPicSize = MON_COORDS_SIZE(64, 64),
+        .backPicYOffset = 8,
+        .backAnimId = BACK_ANIM_CONCAVE_ARC_SMALL,
+        .palette = gMonPalette_Chatling,
+        .shinyPalette = gMonShinyPalette_Chatling,
+        .iconSprite = gMonIcon_Chatling,
+        .iconPalIndex = 0,
+        FOOTPRINT(Chatling)
+        OVERWORLD(
+            sPicTable_Chatling,
+            SIZE_32x32,
+            SHADOW_SIZE_M,
+            TRACKS_FOOT,
+            gOverworldPalette_Chatling,
+            gShinyOverworldPalette_Chatling
+        )
+        .levelUpLearnset = sChatlingLevelUpLearnset,
+        .teachableLearnset = sChatlingTeachableLearnset,
+        .eggMoveLearnset = sChatlingEggMoveLearnset,
+        .evolutions = EVOLUTION({EVO_LEVEL, 15, SPECIES_CHATOT}),
+    },
+
     /* You may add any custom species below this point based on the following structure: */
 
     /*

@@ -10151,6 +10151,18 @@ static const union AnimCmd sAnim_Caviamp_1[] =
     ANIMCMD_END,
 };
 
+static const union AnimCmd sAnim_Chatling_1[] =
+{
+    ANIMCMD_FRAME(0, 7),
+    ANIMCMD_FRAME(1, 4),
+    ANIMCMD_FRAME(0, 4),
+    ANIMCMD_FRAME(1, 4),
+    ANIMCMD_FRAME(0, 4),
+    ANIMCMD_FRAME(1, 4),
+    ANIMCMD_FRAME(0, 10),
+    ANIMCMD_END,
+};
+
 static const union AnimCmd sAnim_Egg_1[] =
 {
     ANIMCMD_FRAME(0, 6),
@@ -12825,4 +12837,5 @@ SINGLE_ANIMATION(TerapagosStellar);
 SINGLE_ANIMATION(Pecharunt);
 #endif //P_FAMILY_PECHARUNT
 SINGLE_ANIMATION(Caviamp);
+SINGLE_ANIMATION(Chatling);
 SINGLE_ANIMATION(Egg);

@@ -23800,8 +23800,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9536
-            .species = SPECIES_TREECKO,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("RAVEN"),
+#line 9536
+            .species = SPECIES_CHATLING,
+#line 9536
+            .gender = TRAINER_MON_MALE,
 #line 9538
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9537
@@ -23940,8 +23943,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9591
-            .species = SPECIES_TORCHIC,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("RAZORBLADE"),
+#line 9591
+            .species = SPECIES_SNEASEL,
+#line 9591
+            .gender = TRAINER_MON_FEMALE,
 #line 9593
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9592
@@ -24080,8 +24086,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9646
-            .species = SPECIES_MUDKIP,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("VENOM"),
+#line 9646
+            .species = SPECIES_VENIPEDE,
+#line 9646
+            .gender = TRAINER_MON_FEMALE,
 #line 9648
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9647
@@ -24222,8 +24231,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9701
-            .species = SPECIES_TREECKO,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("CHARAP"),
+#line 9701
+            .species = SPECIES_CHATLING,
+#line 9701
+            .gender = TRAINER_MON_FEMALE,
 #line 9703
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9702
@@ -24368,8 +24380,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9756
-            .species = SPECIES_TORCHIC,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("NEVADA"),
+#line 9756
+            .species = SPECIES_SNEASEL,
+#line 9756
+            .gender = TRAINER_MON_FEMALE,
 #line 9758
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9757
@@ -24514,8 +24529,11 @@ F_TRAINER_FEMALE |
         {
             {
 #line 9811
-            .species = SPECIES_MUDKIP,
-            .gender = TRAINER_MON_RANDOM_GENDER,
+            .nickname = COMPOUND_STRING("DAHLIA"),
+#line 9811
+            .species = SPECIES_VENIPEDE,
+#line 9811
+            .gender = TRAINER_MON_FEMALE,
 #line 9813
             .iv = TRAINER_PARTY_IVS(0, 0, 0, 0, 0, 0),
 #line 9812

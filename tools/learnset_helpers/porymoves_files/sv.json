@@ -98074,5 +98074,12 @@
       "MOVE_THUNDER_PUNCH",
       "MOVE_THUNDER_WAVE"
     ]
+  },
+  "CHATLING": {
+    "LevelMoves": [],
+    "PreEvoMoves": [],
+    "TMMoves": [],
+    "EggMoves": [],
+    "TutorMoves": []
   }
 }

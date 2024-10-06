@@ -6158,6 +6158,10 @@ Cry_Pecharunt::
 	.align 2
 Cry_Caviamp::
 	.incbin "sound/direct_sound_samples/cries/caviamp.bin"
+
+	.align 2
+Cry_Chatling::
+	.incbin "sound/direct_sound_samples/cries/chatling.bin"
 .endif @ P_CRIES_ENABLED
 
 	.align 2

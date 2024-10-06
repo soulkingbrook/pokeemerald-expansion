@@ -39,7 +39,7 @@
       "flag": "0"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_SPECIES(CHATOT)",
+      "graphics_id": "OBJ_EVENT_GFX_SPECIES_SHINY(CHATLING)",
       "x": 38,
       "y": 16,
       "elevation": 3,
@@ -91,7 +91,7 @@
       "flag": "0"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_SPECIES(CHATOT)",
+      "graphics_id": "OBJ_EVENT_GFX_SPECIES(CHATLING)",
       "x": 15,
       "y": 16,
       "elevation": 3,

@@ -2427,6 +2427,7 @@ enum {
     CRY_PECHARUNT,
 #endif //P_FAMILY_PECHARUNT
     CRY_CAVIAMP,
+    CRY_CHATLING,
     CRY_COUNT,
 };
 
