@@ -18637,8 +18637,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = HANDLE_EXPANDED_MOVE_NAME("GlacialLance", "GLACIAL LANCE"),
         .description = COMPOUND_STRING(
-            "Strikes by hurling a blizzard-\n"
-            "cloaked icicle lance at foes."),
+            "Hurls a blizzard-cloaked\n"
+            "icicle lance at foes."),
         .effect = EFFECT_HIT,
         .power = B_UPDATED_MOVE_DATA >= GEN_9 ? 120 : 130,
         .type = TYPE_ICE,
@@ -18659,8 +18659,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = HANDLE_EXPANDED_MOVE_NAME("AstrlBarrage", "ASTRAL BARRAGE"),
         .description = COMPOUND_STRING(
-            "Strikes by sending a frightful\n"
-            "amount of ghosts at foes."),
+            "Sends a frightful amount\n"
+            "of small ghosts at foes."),
         .effect = EFFECT_HIT,
         .power = 120,
         .type = TYPE_GHOST,
@@ -20404,8 +20404,8 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     {
         .name = HANDLE_EXPANDED_MOVE_NAME("TeraStarstrm", "TERA STARSTORM"),
         .description = COMPOUND_STRING(
-            "Damages all opponents if user\n"
-            "is STELLAR TERAPAGOS."),
+            "Damages all opponents if used\n"
+            "by STELLAR TERAPAGOS."),
         .effect = EFFECT_TERA_STARSTORM,
         .power = 120,
         .type = TYPE_NORMAL,
