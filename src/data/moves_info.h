@@ -20944,7 +20944,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
     },
     [MOVE_10000000_VOLT_THUNDERBOLT] =
     {
-        .name = COMPOUND_STRING("10000000 VOLT THUNDERBOLT"),
+        .name = COMPOUND_STRING("10,000,000 VOLT THUNDERBOLT"),
         .description = sNullDescription,
         .effect = EFFECT_HIT,
         .power = 195,
