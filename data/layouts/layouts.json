@@ -4420,6 +4420,26 @@
       "secondary_tileset": "gTileset_Shop",
       "border_filepath": "data/layouts/Route117_BreedjectRanch/border.bin",
       "blockdata_filepath": "data/layouts/Route117_BreedjectRanch/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE117_BREEDJECT_RANCH_EXPHALL",
+      "name": "Route117_BreedjectRanch_EXPHall_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_TrickHousePuzzle",
+      "border_filepath": "data/layouts/Route117_BreedjectRanch_EXPHall/border.bin",
+      "blockdata_filepath": "data/layouts/Route117_BreedjectRanch_EXPHall/map.bin"
+    },
+    {
+      "id": "LAYOUT_AQUA_HIDEOUT_BOARDROOM",
+      "name": "AquaHideout_Boardroom_Layout",
+      "width": 35,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/AquaHideout_Boardroom/border.bin",
+      "blockdata_filepath": "data/layouts/AquaHideout_Boardroom/map.bin"
     }
   ]
 }

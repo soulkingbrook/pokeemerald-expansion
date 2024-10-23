@@ -317,7 +317,8 @@
   ],
   "gMapGroup_IndoorRoute117": [
     "Route117_PokemonDayCare",
-    "Route117_BreedjectRanch"
+    "Route117_BreedjectRanch",
+    "Route117_BreedjectRanch_EXPHall"
   ],
   "gMapGroup_IndoorRoute121": [
     "Route121_SafariZoneEntrance"
@@ -430,7 +431,8 @@
     "TerraCave_Entrance",
     "TerraCave_End",
     "AlteringCave",
-    "MeteorFalls_StevensCave"
+    "MeteorFalls_StevensCave",
+    "AquaHideout_Boardroom"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

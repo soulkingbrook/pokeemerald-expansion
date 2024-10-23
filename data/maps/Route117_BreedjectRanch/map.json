@@ -55,12 +55,26 @@
       "elevation": 0,
       "dest_map": "MAP_ROUTE117",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE117_BREEDJECT_RANCH_EXPHALL",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
 
   ],
   "bg_events": [
-
+    {
+      "type": "sign",
+      "x": 4,
+      "y": 1,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "Route117_BreedjectRanch_EventScript_ExpSign"
+    }
   ]
 }

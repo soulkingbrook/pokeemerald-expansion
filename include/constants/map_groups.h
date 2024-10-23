@@ -286,8 +286,9 @@
 #define MAP_ROUTE116_TUNNELERS_REST_HOUSE (0 | (21 << 8))
 
 // gMapGroup_IndoorRoute117
-#define MAP_ROUTE117_POKEMON_DAY_CARE (0 | (22 << 8))
-#define MAP_ROUTE117_BREEDJECT_RANCH  (1 | (22 << 8))
+#define MAP_ROUTE117_POKEMON_DAY_CARE        (0 | (22 << 8))
+#define MAP_ROUTE117_BREEDJECT_RANCH         (1 | (22 << 8))
+#define MAP_ROUTE117_BREEDJECT_RANCH_EXPHALL (2 | (22 << 8))
 
 // gMapGroup_IndoorRoute121
 #define MAP_ROUTE121_SAFARI_ZONE_ENTRANCE (0 | (23 << 8))
@@ -401,6 +402,7 @@
 #define MAP_TERRA_CAVE_END                           (105 | (24 << 8))
 #define MAP_ALTERING_CAVE                            (106 | (24 << 8))
 #define MAP_METEOR_FALLS_STEVENS_CAVE                (107 | (24 << 8))
+#define MAP_AQUA_HIDEOUT_BOARDROOM                   (108 | (24 << 8))
 
 // gMapGroup_IndoorDynamic
 #define MAP_SECRET_BASE_RED_CAVE1    (0 | (25 << 8))

@@ -1087,3 +1087,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/Route117_BreedjectRanch/scripts.inc"
+
+	.include "data/maps/Route117_BreedjectRanch_EXPHall/scripts.inc"
+
+	.include "data/maps/AquaHideout_Boardroom/scripts.inc"
